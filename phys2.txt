@@ -189,7 +189,7 @@ outward.
   From plane geometry we know that the surface of a sphere has an area proportional to the square of the length of its
 radius. If the distance from the light source (the radius of the imaginary sphere we are considering) is doubled, the surface
 over which the light is spread is increased two times two, or 4 times. If the distance is tripled, the surface is increased 9
-times. The total quantity of light over the entire surface may remain the same, but the intensity of light--that is, the
+ times. The total quantity of light over the entire surface may remain the same, but the intensity of light--that is, the
 amount of light falling on a particular area of surface--must decrease. More, it must decrease as the square of the distance
 from the light source. Doubling the distance from the light source decreases the light intensity to 1/4 the original; tripling
 the distance decreases it to 1/9.
@@ -252,7 +252,7 @@ existence, since we see objects through it as if there were no obstacle at all. 
 liquids, notably water, are also transparent.
 
   It is among solids that transparency is very much the exception. Quartz is one of the few naturally occurring solids that
-display the property, and the astonished Greeks considered it a term of warm-ice. The word "crystal." first applied to
+ display the property, and the astonished Greeks considered it a term of warm-ice. The word "crystal." first applied to
 quartz is from their word for "ice," and the word "crystalline" has as one of its meanings "transparent."
 
    Transparency becomes less pronounced when thicker and thicker sections of ordinarily transparent substances are
@@ -284,7 +284,7 @@ when it strikes the edge of a pool table.
   This bouncing back of light from an opaque body is called reflection (from Latin words meaning "to bend back").
 
   The refection of light seems to follow closely the rules that govern the bouncing of a billiard ball. Imagine a flat
-surface capable of reflecting light. A line perpendicular to that surface is called the normal, from the Latin name for a
+ surface capable of reflecting light. A line perpendicular to that surface is called the normal, from the Latin name for a
 carpenter's square used to draw perpendiculars. A ray of light moving along the normal strikes the reflecting surface
 head-on and doubles back in its tracks. A speeding billiard ball would do the same.
 
@@ -409,7 +409,7 @@ indeed converge upon a focus, and without aberration.
    To produce such a beam of light, consisting of parallel rays, we must, strictly speaking, think of a point source of light
 on the principal axis an infinite distance from the mirror. If the point source is a finite distance away, then the rays
 striking the mirror from that point source are not truly parallel, but diverge slightly. Each ray strikes the mirror surface at
-an angle to the normal, which is slightly smaller than it would be if the rays were truly parallel, and in consequence is
+ an angle to the normal, which is slightly smaller than it would be if the rays were truly parallel, and in consequence is
 reflected through a smaller angle. The rays therefore converge farther away from the mirror than at the focus. If the
 distance of the point source is large compared to the distance of the focus (which is only a matter of a few inches for the
 average parabolic mirror the average parabolic mirror), then the rays converge at a point very near the focus--near enough
@@ -467,7 +467,7 @@ heat; and in that respect, by feeling heat, you are "touching" the image.
   A finger held six feet from a candle flame absorbs some heat from the radiation that falls directly upon it. The finger,
 however, intercepts but a small fraction of the total radiation of the candle, and the heating effect is insignificant. A
 concave mirror would intercept more of the candle's radiation and converge it to a small volume of space. The finger
-placed at the area of convergence would feel more heat in that area than elsewhere in the neighborhood. The increase in
+ placed at the area of convergence would feel more heat in that area than elsewhere in the neighborhood. The increase in
 heat concentration may still be too little to feel, but if the concave mirror is used to concentrate the rays of the sun
 instead, you will certainly feel it. Large parabolic mirrors have been built that intercept solar radiation over a sizable area
 and converge it all. Temperatures as high as 7000 degree C have been reached at the focus of such solar furnaces. There
@@ -537,8 +537,6 @@ reflected, the image is larger than the object. The closer the object is brought
 Of course, the larger the image is, the dimmer it is, for a given amount of light is spread out over a larger and larger
 volume.
 
-Refraction
-
   Light need not be reflected in order to deviate from straight-line motion. Light, in passing from one transparent
 medium into another, say from air into water, will generally not be reflected but will continue traveling forward and
 nevertheless may change direction.
@@ -603,7 +601,7 @@ diamond, which has an index of refraction of 2.42. A ray of light entering diamo
 600 passes into diamond with an angle of refraction of only 21.10.
 
 The greater the index of refraction of a material, the greater is its optical density. Thus, diamond is optically denser than
-glass, which is optically denser than water, which is optically denser than air. When a light ray travels from an optically
+ glass, which is optically denser than water, which is optically denser than air. When a light ray travels from an optically
 less dense material into an optically more dense one, the direction of the light ray is bent toward the normal. This happens
 when light travels from air into water, for instance, or from water into diamond. A light ray traveling from an optically
 more dense material to an optically less dense one is bent away from the normal. One effect cancels the other. Thus if
@@ -631,7 +629,7 @@ the case of water, when n equals 1.33, the extreme variation for sin r is from 0
   The angle that has a sine of 0 is 00, and the angle that has a sine of 0.75 is (referring to a table of sines) is 48.60.
 Therefore as the angle of incidence for light passing from air into water varies from 00 to 900, the angle of refraction
 varies from 00 to 48.60. The angle of refraction cannot be higher than 48.60, no matter what the angle of incidence.
-   But what if we reverse the situation and imagine light emerging from water into air? The relationship of the angles is
+  But what if we reverse the situation and imagine light emerging from water into air? The relationship of the angles is
 reversed. Now the light is retracted away from the normal. As the light (in passing from water into air) forms an angle of
 incidence varying from 00 to 48.60, the angle of retraction (formed by the light emerging into the air) varies from 00 to
 900.
@@ -659,7 +657,7 @@ horizon are involved, the eye sees an object higher than it really is by more th
 the sun is actually just below the horizon, the refraction of the atmosphere allows us to see it as just above the horizon.
 Furthermore, the lowermost part of the sun, being lowest, undergoes the most refraction and is raised the more. As a
 result, the setting sun seems oval and flattened at the bottom.
-   Nor is the refractive curve of light as it enters our atmosphere from space a sharp one. The air is not uniformly dense
+    Nor is the refractive curve of light as it enters our atmosphere from space a sharp one. The air is not uniformly dense
 but increases in density as one approaches earth's surface. Its index of refraction increases as its density does.
 Consequently, as light passes from space to our eye it bends more and more, following what amounts to a smooth curve
 (rather than the straight line we take so for granted).
@@ -683,7 +681,7 @@ ray of light meets the normal at an angle from below, it crosses into the glass 
 with it because the glass is optically more dense than the air. When the ray of light reaches the glass-air interface at the
 second side of the prism, it makes an angle with a new normal altogether, touching the interface above this normal. As it
 emerges into air, it must bend away from the new normal, because air is optically less dense than glass.
-   The result is that the ray of light bends twice in the same direction, first on entering the glass and then on leaving it. On
+    The result is that the ray of light bends twice in the same direction, first on entering the glass and then on leaving it. On
 leaving the glass it is traveling in a direction different from that in which it had entered. Light always passes thorough a
 prism in such a way that it bends away from the apex and toward the base.
 
@@ -715,7 +713,7 @@ increases. The overall result is that the light rays converge on the other side 
 
    A smoothed-out double prism of the type just described has the shape of a lentil seed and is therefore called a lens
 (from the Latin word for such a seed). By extension, any piece of glass or other transparent material with at least one
-curved surface is called a lens.
+curved surface is called a lens.
 
    Both surfaces are convex in the particular type of lens that resembles a smoothed-out double prism. Such a lens is
 therefore a biconvex lens. This is the kind that resembles a lentil seed; it is the most familiar kind and, in fact, is what the
@@ -900,7 +898,7 @@ illumination; in effect, no images are formed.
 But suppose one uses a closed box with a hole on the side facing the light source, and suppose one imagines the hole
 made smaller and smaller. As the hole is made smaller, the number of overlapping images is continually being reduced.
 Eventually an image with fuzzy outlines can be made out on the surface opposite the hole, and if the hole is made quite
-small, the image will be sharp. The image will remain sharp no matter what the distance between the hole and the surface
+small, the image will be sharp. The image will remain sharp no matter what the distance between the hole and the surface
 on which it falls, for there is no question of focusing since the image is formed of straight-line rays of light that are un-
 refracted. The farther the surface from the hole the larger the image, since the rays continue to diverge with increasing
 distance from the hole. However, because the same amount of light must be spread over a larger and larger area, the
@@ -992,7 +990,7 @@ motion, is produced. Thus, motion pictures were introduced.
 this was known in ancient times, since a round glass bowl filled with water would produce such an effect.
 
   To understand this; we must realize that we do not sense the actual size of an object directly, but merely judge that size
-from a variety of indirect sensations, including the angle made by light reaching the eye from extreme ends of the object.
+ from a variety of indirect sensations, including the angle made by light reaching the eye from extreme ends of the object.
 
    Suppose, for instance, that a rod 4 centimeters long is held horizontally 25 centimeters in front of the eyes. The light
 reaching the eye from the ends of the rod makes a total angle of about 9.140. In other words, if we looked directly at one
@@ -1023,7 +1021,7 @@ actually larger. We even convince ourselves that it looks larger.
   Alterations in the accommodation of the lens and the convergence of the eyes are of use only for relatively nearby
 objects. For distant objects, we judge distance by comparison with neighboring objects whose real size we happen to
 know. Thus a distant sequoia tree may not look unusually large to us until we happen to notice a tiny man at its foot. We
-then realize how distant it must be, and its real size is made apparent. It begins to look large.
+ then realize how distant it must be, and its real size is made apparent. It begins to look large.
 
    It there are no neighboring objects of known size with which to compare a distant object, we have only the visual
 angle, and that by itself tells us nothing. For instance, the moon, high in the sky, presents a visual angle of roughly 0.50.
@@ -1049,13 +1047,13 @@ other side of the converging lens. The ratio of the size of the image to the siz
 the lens.
 
    The magnification can be expressed in terms of the focal length (f) of the lens, provided we turn once more to the lens
-equation (Equation 2-2 , or 3-1). Since the image is a virtual image, its distance D(1)receives a negative sign, while the,
-distance of the object itself D(0) remains positive, as always. The equation can be written then:
+equation. Since the image is a virtual image, its distance D(1)receives a negative sign, while the,
+distance of the object itself remains positive, as always. The equation can be written then:
 
   The magnification, as I have said, is the ratio of the size of the image to the size of the object, but this size ratio can be
 judged in two ways. It can be interpreted as the ratio of the visual angles, if both object and image are at the same
 distance; or as the ratio of the distances, if both object and image produce the same visual angle. Let us take the latter
-interpretation and solve Equation 3-2 for the ratio bf the distance of the image to that of the object D(1)/ D(0). It turns out
+interpretation and solve for the ratio bf the distance of the image to that of the object. It turns out
 that:
 
 
@@ -1074,20 +1072,16 @@ distance becomes greater than the focal length and continues to increase.
 
    It also follows from Equation 3-3 that, for a given distance of the object D(0, the magnification increases with decrease
 in the focal length of the lens (provided the focal distance remains greater than the distance of the object). To see this, let
-us suppose that D(0) = 1 and that f takes up successive values of 5, 4, 3 and 2. Since the magnification (m) is equal to f /
-[f - D(0)], it equals, successively, 5/4, 4/3, 3/2 and 2/l; or 1.2, 1.33, 1.5 and 2.0. This is another reason for considering a
+us suppose that successive values of 5, 4, 3 and 2. Since the magnification is equal to, it equals, successively, 5/4, 4/3, 3/2 and 2/l; or 1.2, 1.33, 1.5 and 2.0. This is another reason for considering a
 converging lens to grow more powerful as its focal length decreases. After all, its magnifying power increases as its focal
 length decreases.
 
   All this is reversed for diverging lenses. Here the rays of light converging on their trip to the eye from opposite ends of
 an object are diverged somewhat by the lens and made to reach the eye at a smaller visual angle. For that reason, objects
 seem smaller when viewed through a diverging lens,
-   In this way, you can quickly tell whether a person is near-sighted of farsighted by an extremely simple test with his
+In this way, you can quickly tell whether a person is near-sighted of farsighted by an extremely simple test with his
 glasses. A nearsighted man must wear diverging leases, so print looks smaller if those lenses are held a few inches above
 the printed page. A farsighted man must wear converging lenses, and those will make the print appear larger.
-
-
-Microscopes and Telescopes
 
    The cells of the retina either "fire" as light strikes them, or do not fire as light does not strike them. As a result, the
 image that is produced upon them is, so to speak, a combination of light and dark spots. This resembles the appearance of
@@ -1112,8 +1106,7 @@ be seen as two dots; the minimum visual angle required is therefore something li
    The resolving power of the human eye (its ability to see two closely-spaced dots as two dots and, in general, its ability
 to make out fine detail) is actually very good and is much better than that of the eyes of other species of animal.
 Nevertheless, beyond the resolving power of the human eye there is a world of detail that would be lost to our knowledge
-forever, were it not for lenses.
-  Suppose two dots, separated by a visual angle of 0.0010, were placed under a lens with a magnification of 6. The visual
+forever, were it not for lenses. Suppose two dots, separated by a visual angle of 0.0010, were placed under a lens with a magnification of 6. The visual
 angle formed by those two dots would be increased to 0.0060, and they could be seen as two does. Without the lens they
 could be seem as only one dot, in general, an enlarging lens not only makes the object larger in appearance, it makes
 more detail visible to the eye.
@@ -1145,7 +1138,7 @@ bright enough despite this dimming effect.)
   Since the image is a real image, it can be treated optically as though it were the object itself. A second converging lens
 can be used that will further magnify the already-magnified image. By the use of two or more lenses in this way, we can
 easily obtain a final magnification that will be greater than the best one can do with a single lens. Microscopes using
-more than one lens are called compound microscopes.
+more than one lens are called compound microscopes.
 
   The first compound microscopes are supposed to have been built a century before Leeuwenhoek by a Dutch spectacle
 maker, Zacharias Janssen, in 1590. Because of the imperfect lenses used, it took quite a while for these to be anything
@@ -1177,7 +1170,7 @@ man had ever seen before.
   The greater detail visible on the image of the moon made it possible for him to see lunar mountains and craters. He saw
 spots on the sun and enlarged both Jupiter and Venus into actual globes. He could see that Venus showed phases like the
 moon (as was required by the Copernican theory) and that Jupiter was circled by four satellites.
-   The lens of a telescope also serves as a light-collector. All the light that falls upon the lens is concentrated into the
+    The lens of a telescope also serves as a light-collector. All the light that falls upon the lens is concentrated into the
 image. If the lens is larger than the pupil of the eye (and in a telescope it is bound to be), more light will be concentrated
 into the image within the telescope than is concentrated into the image within the eye. A star that is too dim to be made
 out by the unaided eye becomes bright enough therefore to be seen in a telescope. When Galileo turned his telescope on
@@ -1205,10 +1198,6 @@ Wisconsin has a 40-inch lens and is the largest telescope of its sort in the wor
 has been built since. Nor is any likely to be built.
 
 
-                                                       CHAPTER 4
-                                                         Color
-Spectra
-
     So far, I have spoken of light as though all light were the same except that one beam might differ from another in
 brightness. Actually, there is another distinguishing characteristic, familiar to us all, and that is color. We know that there
 is such a thing as red light, blue light, green light, and so on through a very large number of tints and shades.
@@ -1222,8 +1211,7 @@ from a blue surface, it would pick up redness or blueness and gain a property it
 without the intervention of colored matter at any time. The one such phenomenon known to men of all ages is the
 rainbow, the arc of varicolored light that sometimes appears in the sky, when the sun emerges after a rain shower. The
 rainbow was startling enough to attract a host of mythological explanations; a common one was that it was a bridge
-connecting heaven and earth. The first motion toward a rationalistic explanation was that of the Roman philosopher
-Lucius Annaeus Seneca (4 B.C.? - 65 A.D.), who pointed out that the rainbow was rather similar to the play of colors
+connecting heaven and earth. The first motion toward a rationalistic explanation was that of the Roman philosopher, who pointed out that the rainbow was rather similar to the play of colors
 often seen at the edge of a piece of glass.
 
    By the seventeenth century, physicists began to suspect that the rainbow, as well as the colors at the edge of glass, were
@@ -1237,7 +1225,7 @@ crucial advance. In 1666, he allowed a shaft of sunlight to enter a darkened roo
 light, refracted through the prism, was allowed to strike a white surface. There it appeared not as a spot of white sunlight,
 but as an extended band of colors that faded into one another in the same order (red, orange, yellow, green, blue, violet)
 they do in a rainbow. It was a colored image and it received the name of spectrum, from the Latin word for "image."
-  It the light of the spectrum was formed on a surface with a hole in it, a hole so arranged that only one of the colors
+It the light of the spectrum was formed on a surface with a hole in it, a hole so arranged that only one of the colors
 could pass through, and if that one beam of colored light was allowed to pass through a second prism, the color would be
 somewhat spread out but no new colors would appear.
 
@@ -1269,7 +1257,7 @@ uncertainty, since a whole sheaf of indices of refraction is produced by the var
 reason it is customary to make use of a particular colored light in determining indices of refraction. One device frequently
 used is a "sodium lamp," a device in which light is emitted by the heated sodium vapor within the bulb. This light is
 yellow in color and is refracted by an amount that varies only over a very small range.
-   By this view of light, it is easy to explain colored objects. It is not necessary to suppose that objects must be either
+By this view of light, it is easy to explain colored objects. It is not necessary to suppose that objects must be either
 fully transparent (transmitting all colors of light) or fully opaque (transmitting none of them). Some substances may well
 be opaque to some colors and transparent to others. Red glass, for instance, may possess a chemical admixture that will
 absorb colors other than red and allow red to pass through. In that case, white light passing through red glass becomes red
@@ -1300,7 +1288,7 @@ strongly to red, one to green, and one to blue. The extent to which a particular
 mixture of colon activates each of the three gives rise, therefore, to the color sensation of which we become aware. Light
 that activates all three equally might then be interpreted as “white"; light that activates the three in one fixed ratio might
 be "yellow," in another “violet," and so on.
-    This is made use of in color photography. In one process, the film consists of triple layers, one of which contains a
+This is made use of in color photography. In one process, the film consists of triple layers, one of which contains a
 red-absorbing dye so that it is particularly sensitive to red light, another a dye sensitive to blue light, and the third a dye
 sensitive to green light. The light at each point of the image affects the three in a particular ratio and upon development
 produces at every point of the image a dye combination in a particular ratio of intensity. The dye combination affects the
@@ -1318,7 +1306,6 @@ some of which react to light by shining blue, some by shining green, sad some by
 the TV picture scanned and transmitted by the camera activates these dots in a particular brightness ratio, and we sense
 that ratio as the same color that was present in the original object.
 
-Reflecting Telescopes
 
     The fact that white light is a mixture of colors explained what had been observed as an annoying imperfection of the
 telescope. A parallel beam of light rays passing through a converging lens is brought to a focus on the other side of the
@@ -1331,7 +1318,7 @@ point. The orange component being refracted to a somewhat greater extent comes t
 the lens than the red light. The yellow light is focused closer still, and next follow green, blue and, closest of all, violet.
 This means that if the eye is so placed at a telescope eyepiece that the red component of the light from a heavenly body is
 focused upon the retina, the remaining light will be past its focal point and will be broader and fuzzier. The image of the
-heavenly body will be circled with a bluish ring. If the eye is placed so that the violet end of the spectrum is focused, the
+ heavenly body will be circled with a bluish ring. If the eye is placed so that the violet end of the spectrum is focused, the
 remaining light will not yet have reached its focus and there will be an orange rim. The best that can be done is to focus
 the eye somewhere in the center and endure the colored rims, which are in this way minimized but not abolished.
 
@@ -1363,7 +1350,7 @@ need be perfectly ground in a mirror, rather than two as in the case of the lens
     Again, light must pass through a lens and some is necessarily absorbed. The larger and thicker the lens, the greater the
 absorption. On the other hand no matter how large a mirror may be, the light is merely reflected from the surface, and
 virtually none is lost by absorption. Then too a lens can only be supported about the rim, since all other pans must be
-open to unobstructed passage of light: it becomes difficult to support a large, thick lens about the rim, for the center sags
+open to unobstructed passage of light: it becomes difficult to support a large, thick lens about the rim, for the center sags
 and this introduces distortion. The mirror on the other hand can be supported at as many points as may be desired.
 
     The result is that all the large telescopes in the world are reflectors. The largest currently in operation is the 200-inch
@@ -1395,7 +1382,7 @@ dispersion varies with different types of glass. Thus, flint glass (which contai
 great as crown glass (which does not contain lead compounds).
 
    One can therefore form a converging lens of crown glass and add to it a less powerful diverging lens of flint glass. The
-diverging lens of flint glass will only neutralize part of the convergent effect of the crown glass lens, but it will balance
+ diverging lens of flint glass will only neutralize part of the convergent effect of the crown glass lens, but it will balance
 all the dispersion. The result will be a combined lens not quite as convergent as the crown glass alone, but one that does
 not produce a spectrum or suffer from chromatic aberration. It is an achromatic lens (from Greek words meaning "no
 color"). The English optician John Dollond (1706-1761) produced the first achromatic refracting telescope in 1758.
@@ -1410,7 +1397,6 @@ Batida Amici (1786?-1863), microscopes with achromatic lenses were finally devel
 It was only there after that the smaller microorganisms could be seen clearly and that the science of bacteriology could
 really begin to flourish.
 
-Spectral Lines
 
    Actually, we must not think of sunlight as being composed of a few different colors, as though it were a mixture of
 seven pigments. Sunlight is a mixture of a vast number of components separated by very slight differences in refractivity.
@@ -1427,7 +1413,7 @@ where the missing refractivity ought to have been, and no gap would be visible.
    The situation would be improved it the beam of light were made to pass through a narrow slit. The spectrum would
 then consist of a myriad of images of the slit, each overlapping its neighbor only very slightly. In 1802, the English
 chemist William Hyde Wollaston (1766-1828) did see a few dark lines in the spectrum, representing missing slit-images.
-He, however, felt they represented the boundary lines between colors and did not follow through.
+He, however, felt they represented the boundary lines between colors and did not follow through.
 
    Between 18 14 and 1824, however, a German optician, Joseph von Fraunhofer (1787-1826), working with particularly
 fine prisms, noticed hundreds of such dark lines in the spectrum. He labeled the most prominent ones with letter from A
@@ -1459,7 +1445,7 @@ the new lines they had observed). The next year they made a similar discovery an
 word for “dark red"). The existence of both metals was-quickly confirmed by older chemical techniques.
 
    Kirchhoff observed the reverse of an emission spectrum. Glowing solids emit light of all colors, forming a continuous
-spectrum. If the light of a carbon-arc, for instance, representing such a continuous spectrum is allowed to pass through
+spectrum. If the light of a carbon-arc, for instance, representing such a continuous spectrum is allowed to pass through
 sodium vapor that is at a temperature cooler than that of the arc, the sodium vapor will absorb some of the light. It will,
 however, absorb light only of particular varieties-precisely those varieties that the sodium vapor would itself emit if it
 were glowing. Thus, sodium vapor when glowing and emitting light produces two closely spaced yellow lines that make
@@ -1491,7 +1477,7 @@ Diffraction
 As long as light could be taken to be an undifferentiated and pure phenomenon, geometrical optics was sufficient. Lines
 could be drawn representing light rays, and the phenomena of reflection and refraction could be analyzed without any
 consideration of what the nature of light might be. That question might be left for philosophers.
-   With light a mixture of colors, it became necessary to seek some explanation for the manner in which light of one
+ With light a mixture of colors, it became necessary to seek some explanation for the manner in which light of one
 color differed from light of another color. For that, the question of the nature of light in general had to be considered, and
 thus was born physical optics.
 
@@ -1522,7 +1508,7 @@ themselves, of course, but how?
    Some of Newton's contemporaries, therefore, took up the wave theory Newton had discarded. The most vigorous
 supporter of the wave theory in the seventeenth century was the Dutch physicist Christiaan Huygens (1629-1695). He had
 no real evidence in favor of waves, but he bent his efforts to show that waves could be so treated as to fit the facts of
-geometric optics. In 16'78, he suggested that when a wave front occupies a certain line, each point on the front acts as a
+ geometric optics. In 16'78, he suggested that when a wave front occupies a certain line, each point on the front acts as a
 source of circular waves, expanding outward indefinitely. These waves melt together, so to speak, and a line can be
 drawn tangent to the infinite number of little circles centering about each point on the original wave front. This tangent is
 a picture of the new wave front, which serves as the starting region for another infinite set of circular waves to which
@@ -1553,7 +1539,7 @@ emerged. The emerging light takes on its original direction again.
 a plowed field. The soldiers leaving the highway are, naturally, slowed down; those first to enter the held are slowed
 down first, and the whole line of soldiers (if they make no effort to correct for the change in footing) must alter the
 direction of march toward the direction of the normal to the highway-field interface.
-   Thus, the wave theory can explain refraction by supposing that the velocity of light is less in glass than in air. By
+    Thus, the wave theory can explain refraction by supposing that the velocity of light is less in glass than in air. By
 malting a further assumption, it can also explain spectrum formation. If light is a wave form, it must have a wavelength
 (the length from the crest of one wave to that of another. Suppose, then, that this wavelength varies with color, being
 longest at the red end of the spectrum and shortest at the violet end. It would seem reasonable then to suppose that short
@@ -1585,7 +1571,7 @@ A beam of light, therefore, had to "leak" side-ways if it was a wave form. In pa
 a gap in an opaque barrier, the light at the boundary of the beam, just skimming the edge of the gap, ought to leak side-
 ways so that the illuminated portion of a surface farther on ought to be wider than one would expect from strictly straight-
 line travel.
-    This phenomenon of a wave form bending sideways at either end of a wave front is called diffraction, and this is, in
+This phenomenon of a wave form bending sideways at either end of a wave front is called diffraction, and this is, in
 fact, easily observed in water waves and sound waves. Since light, on passing through a gap in a barrier, did not seem to
 exhibit diffraction, the panicle theory seemed to win the nod. Unfortunately, what was not clearly understood in Newton's
 time was that the smaller the wavelength of any wave form, the smaller the diffraction effect. Therefore, if one but made
@@ -1615,7 +1601,7 @@ reflection from unbroken surfaces will not).
 violet is most refracted and red least, violet is least diffracted and red most. Consequently, if the spectrum in one case is
 "red-left-violet-right," it is "red-right-violet-left" in the other. More exactly, in the case of refraction spectre, red is nearest
 the original line in which light was, traveling, while violet is nearest the original line in the ease of diffraction spectre.
-   (Nowadays, diffraction gratings are used much more commonly than prisms in forming spectra. The first to make
+    (Nowadays, diffraction gratings are used much more commonly than prisms in forming spectra. The first to make
 important use of diffraction gratings for this purpose was Fraunhofer, the man who first made thorough observations of
 spectral lines.)
 
@@ -1627,10 +1613,6 @@ had to choose between two personalities rather than between two sets of physical
 carried the day, and for a hundred years afterward, throughout the eighteenth century, light was considered by almost all
 physicists to be indisputably particulate in nature.
 
-
-                                                      CHAPTER 5
-                                                      Light Waves
-Interference
 
    The eighteenth century confidence in the existence of light particles came to grief at the very opening of the nineteenth
 century. In 1801, Young (of the Young-Helmholtz theory of color vision) conducted an experiment that revived the wave
@@ -1645,7 +1627,7 @@ beyond the overlapping, where light from only one cone would be received. This p
 overlapping region consisted of stripes--bright bands and dim bands alternating.
 
    For the particle theory of light, this was a stopper. On the basis of the wave theory, however, there was no problem. At
-some points on the screen, light from both the first and second cone would consist of wave forms that were in phase (that
+some points on the screen, light from both the first and second cone would consist of wave forms that were in phase (that
 is, crest matching crest, trough matching trough. The two light beams would reinforce each other at those points s~ that
 them would be a resultant waveform of twice the amplitude and, therefore, a region of doubled brightness. At other points
 on the screen, the two light beams would be out of phase (with crest matching trough and trough matching crest). The two
@@ -1677,7 +1659,7 @@ made use of a unit that was one-tenth of a millimicron. This is called an angstr
 of the spectrum is from 7600 A to 3800 A.
 
    The wavelength ranges for the different colors may be given roughly (for the colors blend into one another and there
-are no ~ sharp divisions) as: fed, 7600-6300 A; orange, 6300-5900 A; yellow, 5900-5600 A; green, 5600-4900 A; blue,
+are no ~ sharp divisions) as: fed, 7600-6300 A; orange, 6300-5900 A; yellow, 5900-5600 A; green, 5600-4900 A; blue,
 4900-4500 A; violet 4500-3800 A.
 
     Incandescent sodium vapor gives off a bright line in the yellow, while sodium absorption produces a dark line in the
@@ -1709,7 +1691,7 @@ although darker by far than areas in direct sunlight, receive enough scattered l
 in the shade of a building or even indoors on a cloudy day.
 
    After the sun has set, it is shining past the bulge of the earth upon the upper atmosphere. The light scattered downward
-keeps the earth in a slowly dimming twilight. It is only after the sun has sunk 18 degrees below the horizon that full night
+keeps the earth in a slowly dimming twilight. It is only after the sun has sunk 18 degrees below the horizon that full night
 can be said to have begun. In the morning, sunrise is preceded by a second twilight period, which is dawn.
 
    As particles grow smaller, a pronounced difference becomes noticeable in the amount of scattering with wavelength.
@@ -1741,7 +1723,7 @@ of short-wave light subtracted from its color, is a trifle redder than it would 
 light comes obliquely through the atmosphere. Enough light is scattered from even the mid-portions of the spectrum to
 lend the sky a faintly greenish hue, while the sun itself, with a considerable proportion of its light scattered, takes on a
 ruddy color indeed. This, reflected from broken clouds, can produce a most beautiful effect. Since the evening sky, after
-the day's activities, in dustier than is the morning sky, and since the dust contributes to scattering, sunsets tend to be more
+the day's activities, in dustier than is the morning sky, and since the dust contributes to scattering, sunsets tend to be more
 spectacular than sunrises. After gigantic volcano eruptions (notably that of Krakatoa, which blew up-literally--in 1883)
 uncounted tons of fine dust is hurled into the upper atmosphere, and sunsets remain particularly beautiful for months
 afterward.
@@ -1752,7 +1734,6 @@ there is neither dawn nor twilight. The earth, as seen from space, would also po
 gradually shaded from light to dark. Furthermore, its globe would have a distinctly bluish appearance, thanks to light
 scattering by its atmosphere.
 
-The Velocity of light
 
     In time, even the question of the velocity of light in various media was settled in favor of Huygens' view as one climax
 to two centuries of work on the problem. The first effort to measure the velocity of light was made by Galileo about a
@@ -1773,7 +1754,7 @@ remained possible that light traveled with infinite speed, as indeed many schola
 
   It was not until the 1670's that definite evidence was presented to the effect that the velocity of light, while very great,
 was, nevertheless, finite. The Danish astronomer Olaus Roemer (1644-1710) was then making meticulous observations of
-Jupiter's satellites (which had been discovered by Galileo in 1610). The orbits of those satellites had been carefully
+ Jupiter's satellites (which had been discovered by Galileo in 1610). The orbits of those satellites had been carefully
 worked out, and the moments at which each satellite ought to pass behind Jupiter and be eclipsed to the sight of an
 observer on earth could, in theory, be calculated with precision. Roemer found, however, that the eclipses took place off
 schedule, several minutes too late at some times and several minutes too early at others.
@@ -1805,7 +1786,7 @@ hundred fifty thousand miles a second.
 
    Roemer's work was not accepted wholeheartedly, but in 1728 the English astronomer James Bradley (1693-1762) used
 the phenomenon of the aberration of light to perform a similar calculation. Suppose that the light of a star from near the
-North Celestial Pole is descending vertically upon the earth. The earth, however, is moving in its orbit at right angles to
+ North Celestial Pole is descending vertically upon the earth. The earth, however, is moving in its orbit at right angles to
 that direction and is therefore moving to meet the beam of light. A telescope must be angled slightly to catch that beam of
 light, just as an umbrella must be angled slightly to catch the raindrops if you are walking in a storm in which the rain is
 falling vertically.
@@ -1837,7 +1818,7 @@ Consequently, the reflected light would lose just a tiny bit of its intensity an
 if there were no cogged wheel in the way at all.
 
    If the cogged wheel were made to rotate faster and faster, a larger and larger fraction of the light would be intercepted
-by the cog on its return, and the reflected light, al seen through the eye-piece, would grow dimmer and dimmer.
+by the cog on its return, and the reflected light, al seen through the eye-piece, would grow dimmer and dimmer.
 Eventually, this dimness would reach a minimum, because all the light that emerged while the gap was passing would
 return while the cog was passing. But if the wheel were rotated still faster, then some of the light would begin slipping
 through the next gap, and the light would begin to brighten again. At a certain point, all the light passing through one gap
@@ -1863,16 +1844,6 @@ than through air. This he did in 1850 and found that the velocity of light in wa
 was precisely in accord with Huygens' prediction of nearly two centuries before and counter to Newton's prediction. To
 physicists, this seemed to be the last straw, and there was no important resistance to the wave theory of light after that.
 
-    The velocity of light passing through any transparent medium is equal to its velocity in a vacuum divided by the index
-of refraction (n) of the medium. The velocity of light in a vacuum is customarily represented as c, which stands for
-celeritas, a Latin word for "velocity." We might say then:
-
-V=c/n                                                          (Equation 5-1)
-   If we accept the approximate value of 186,000 miles per second for c, then since the index of refraction of water is
-1.33, the velocity of light in water is 186,000/1.33, or 140,000 miles per second. Similarly, the velocity of light in glass
-with an index of refraction of 1.5 is 124,000 miles per second, while through diamond, with its index of refraction of
-2.42, the velocity of light is 77,000 miles per second.
-
    No substance with an index of refraction of less than 1 has been discovered, nor, on the basis of present knowledge,
 can any such substance exist. This is another way of saying that light travels more rapidly in a vacuum than in any
 material medium.
@@ -1894,18 +1865,11 @@ new and more refined methods for measuring the velocity of light have been broug
    To be precisely accurate, they adopted the value in metric units, and here, by a curious coincidence, the velocity of
 light comes out to an almost even value: 299,792.8 kilometers per second.
 
-   As you see, this is just a trifle short of 300,000 kilometers per second, or 130,000,000,000 centimeters per second.
-This latter value can be given as 3 X 1010 cm/sec.
-
-   At this velocity, light can travel from the moon to the earth in 1.25 seconds, and from the sun to the earth in eight
-minutes. In one year, light travels 9,450.000,000,000 kilometers, or 5,900,000,000,000 miles, and this distance is called a
-light-year.
-    The light-year has become a convenient unit for use in astronomy since all objects outside our solar system are
+ The light-year has become a convenient unit for use in astronomy since all objects outside our solar system are
 separated from us by distances so vast that no smaller unit will do. Our nearest neighbors among the stars, the members
 of the Alpha Ccntauri system, are 4.3 light years away, while the diameter of our Galaxy as a whole is some 100,000
 light-years.
 
-The Doppler-Fizeau Effect
 
     With light viewed as a wave motion, it was reasonable to predict that it would exhibit properties analogous to those
 shown by other wave motions. The Austrian physicist Johann Christian Doppler (1803-1853) had pointed out that the
@@ -1930,7 +1894,7 @@ However, light might be present in the form of wavelengths to which the retina o
 the British astronomer William Herschel (1738-1822) was checking the manner in which different portions of the
 spectrum affected the thermometer. To his surprise, he found that the temperature rise was highest at a point somewhat
 below the red end of the spectrum-a point where the eye could see nothing.
-   When the wave theory was established, the explanation proved simple. There were light waves with wavelengths
+    When the wave theory was established, the explanation proved simple. There were light waves with wavelengths
 longer than 2600 A. Such wavelengths do not affect the eye, and so they are not seen; nevertheless, they are real. Light of
 such long wavelengths can be absorbed and converted to heat; they can therefore be detected in that fashion. They could
 be put through the ordinary paces of reflection, refraction, and so on, provided that detection was carried through by
@@ -1962,7 +1926,7 @@ for there was much invisible light on either side of the visible spectrum.
 
    It can now be seen why Doppler's suggestion was erroneous. The amount of the Doppler shift in any waveform
 depends on the velocity of the waveform as compared with the velocity of relative motion between wave source and
-observer. Stars within our Galaxy move (relative to us) at velocities that are only in the tens of kilometers per second,
+ observer. Stars within our Galaxy move (relative to us) at velocities that are only in the tens of kilometers per second,
 while the velocity of light is 300,000 kilometers per second. Consequently, the Doppler effect on light would be small
 indeed. There would be only a tiny shift toward either the red or the blue-far from enough to account for the visible
 redness or blueness of the light of certain stars. (This difference in color arises from other causes.)
@@ -1994,7 +1958,7 @@ turned out that there was a virtually universal recession. With the exception of
 an invariable shift in spectral lines toward the red--an effect which became famous as the red shift. Furthermore, the
 dimmer (and. therefore, presumably the farther) the galaxy, the greater the red shift. This correlation of distance with
 velocity of recession would be expected if the galaxies were, one and all, moving farther and farther from each other, as
-though the whole universe were expanding; this, indeed, is the hypothesis usually accepted to explain the red shift.
+ though the whole universe were expanding; this, indeed, is the hypothesis usually accepted to explain the red shift.
 
    As the red shift increases with the distance of the galaxies, the velocity of recession, relative to ourselves increases,
 too. For the very distant galaxies, these velocities become considerable fractions of the velocity of light Velocities up to
@@ -2026,7 +1990,7 @@ ray.
    Both Huygens and Newton considered this experiment but could come to no clear conclusion. Apparently, if light was
 to be refracted in two different ways, its constituents, whether particles or longitudinal waves, must differ among
 themselves. But how?
-   Newton made some vague speculations to the effect that Light particles might differ among themselves as the poles of
+    Newton made some vague speculations to the effect that Light particles might differ among themselves as the poles of
 a magnet did. He did not follow this up, but the thought was not forgotten.
 
     In 1808, a French army engineer, Etienne Louis Malus (1775-1812), was experimenting with some doubly refracting
@@ -2057,7 +2021,7 @@ component and a left-right component only, the two present in equal intensities.
   It is possible that the up-down component may be able to slip through a transparent medium where the left-right
 component might not. Thus, to use an analogy, suppose you held a rope that passed through a gap in a picket fence. If you
 made up-down waves in the rope, they would pass through the gap unhindered. If you made left-right waves, those waves
-would collide with the pickets on either side of the gap and be damped out.
+ would collide with the pickets on either side of the gap and be damped out.
 
    The manner in which light passes through a transparent substance, then, depends on the manner in which the atoms
 making up the substance are arranged--how the gaps between the atomic pickets are oriented, in other words. In most
@@ -2088,7 +2052,7 @@ down waves passing through two picket fences, one behind the other. Neither fenc
    But suppose the second Nicol prism is rotated through a small angle. The polarized light emerging from the first prism
 cannot get through the second prism in full intensity. Then is some loss (as there would be in the up-down waves of the
 rope if the slats of wood in the second picket fence were tipped a little into the diagonal).
-  The amount of light that would get through the second prism would decrease as the angle through which that prism
+   The amount of light that would get through the second prism would decrease as the angle through which that prism
 was rotated increased. Once the second prism was rotated through 90", no light at all could get through.
 
     The second prism can thus be used to determine the exact plane in which the light issuing from the first prism is
@@ -2120,7 +2084,7 @@ light of a wavelength equal to that produced by a sodium vapor lamp, traveling t
 containing l gram per cubic centimeter at a temperature of 200C, then one obtains the specific rotation.
 
    The value of the specific rotation is characteristic for every transparent system. For many this value is 00--that is, the
-plane of polarized light is not rotated at all. Such systems are optically inactive. Systems that do rotate the plane of
+ plane of polarized light is not rotated at all. Such systems are optically inactive. Systems that do rotate the plane of
 polarized light are optically active.
 
    Some optically active systems rotate the plane of polarized light in a clockwise direction. This is taken as a right-
@@ -2152,9 +2116,6 @@ Polaroid can block most of this reflected polarized light and cut down glare.
 
    Thus, the nineteenth century saw light established not merely as a wave form but as a transverse wave term; if this
 solved many problems, it also raised a few.
-                                                        Chapter 6
-                                                        The Ether
-Absolute Motion
 
    If light is a waveform, then it seemed to most scientists, up to the beginning of the twentieth century, that something
 must be waving. In the case of water waves, for instance, water molecules move up and down; in the case of sound
@@ -2174,7 +2135,7 @@ important. Longitudinal waves can be conducted by material in any state: solid, 
 however, can only be conducted through solids, or, in a gravitational field, along liquid surfaces. Transverse waves
 cannot be conducted through the body of a liquid or gas. It was for this reason that early proponents of the wave theory of
 light, assuming the ether to be a gas, also assumed light to consist of longitudinal waves that could pass through a gas
-rather than transverse waves that could not.
+ rather than transverse waves that could not.
 
    When the question of polarization, however, seemed to establish the fact that light consisted of transverse waves, the
 concept of the ether had to be drastically revised. The ether had to be a solid to carry transverse light waves; it had to be a
@@ -2206,7 +2167,7 @@ However, with the train moving uniformly and vibrationlessly, all this is elimin
 that you are in motion are useless.
 
    Now imagine that then is one window in the train through which you can see another train on the next track. There is a
-window in that other train, and someone is looking out at you through it. Speaking to you by sign language, he asks, "Is
+ window in that other train, and someone is looking out at you through it. Speaking to you by sign language, he asks, "Is
 my train moving?" You look at it, see clearly that it is motionless, and answer, "No, it is standing still." So he gets out
 and is killed at once, for it turns out that both trains are moving in the same direction at 70 miles per hour with respect to
 the earth's surface.
@@ -2238,7 +2199,7 @@ accelerating velocity because of gravitational force and it shares in the forwar
 the two motions is to cause the coin to move in a parabola.
 
    We conclude that the coin moves in a straight line relative to the train and in a parabola relative to the earth's surface.
-Now which is the "real" motion? The parabola? The person on the train who is dropping the coin may be ready to believe
+ Now which is the "real" motion? The parabola? The person on the train who is dropping the coin may be ready to believe
 that al- though he seems to himself to be standing still, he is "really" moving at a velocity of 70 miles an hour. He may
 not be equally ready to believe that a coin that he sees moving in a straight line is "really" moving in a parabola.
 
@@ -2270,7 +2231,7 @@ modern times, more and more astronomers were coming to believe that even the ear
 earth, all of it, circled madly about the sun along with the other planets. No part of it was any more at rest than was any
 train careening along its surface. The train might have a fixed motion relative to the earth's surface, but that was not the
 train's "true" motion.
-   For a couple of centuries after the motion of the earth had come to be accepted, there was still some excuse to believe
+    For a couple of centuries after the motion of the earth had come to be accepted, there was still some excuse to believe
 that the sun might be the center of the universe. The sun visibly rotated, for sunspots on its surface circled its globe in a
 steady period of about 27 days. However, the sun's axis might still represent that sought-for state of absolute rest.
 
@@ -2300,7 +2261,7 @@ surely hold for other relative motions (which were merely one absolute motion ad
 
 
 The Michelson-Morley Experiment
-   In the 1880's, however, it appeared to Michelson (the latter-day measurer of the velocity of light) that a method of
+    In the 1880's, however, it appeared to Michelson (the latter-day measurer of the velocity of light) that a method of
 determining absolute motion could be worked out.
 
    Light consists of waves of ether, according to the view of the time, and if the ether moved, it should carry its own
@@ -2332,7 +2293,7 @@ the originally transmitted beam is now reflected. In this way, the two beams joi
 
    In effect a single beam of light has been split in two; the two halves have been sent in directions at right angles to each
 other, have returned, and have been made to join in a combined beam again.
-   The two beams, joining, set up interference fringes, as did the two beams in Young's experiment. One of the mirrors
+    The two beams, joining, set up interference fringes, as did the two beams in Young's experiment. One of the mirrors
 can be adjusted so that the length of the journey of the beam of light to that particular mirror and back can be varied. As
 the mirror is adjusted, the interference fringes move. From the number of fringes that pass the line of sight when the
 mirror is moved a certain distance, the wavelength of the light can be determined. The greater the number of fringes
@@ -2354,47 +2315,25 @@ respect to ether) plus v (the velocity of the light source with respect to ether
 the half-silvered prism is taken as d, then the time it would take the light to pass from the half-silvered prism to the
 reflecting mirror would be d/(c+ V). After reflection, the light would move over the distance d in precisely the opposite
 direction. Now it would be moving into the ether wind, and it would be slowed down, its overall velocity being
-(c – v). The time taken for its return would be d/(c - v). The total time t (1) taken by that beam of light to go and return is
+. The time taken for its return would be the total time taken by that beam of light to go and return is
 therefore:
 
-t(1) = d/(c + v) + d / (c – v) = 2dc / (c2 - v2 )        (Equation 6-1)
 
    Meanwhile, however, the second half of the beam is going at right angles to the first; it also returns at right angles to
 the first. It is going neither with the ether wind nor against it. It is going "crosswind" both ways.
 
-   The time taken by the light beam to go and return crosswind t(2) can be calculated with the help of plane geometry
-and turns out to be:
+   The time taken by the light beam to go and return crosswind can be calculated with the help of plane geometry
+ and turns out to be:
 
-t(2) = 2d / [ square root (c2 - v2 )]                   (Equation 6-2)
-
-   If we divide Equation 6-1 by Equation 6-2, we will determine the ratio of the time taken to cover the ground with-and-
-against the ether wind and the time taken to cover the same distance crosswind. We would have:
-
-t(1) / t(2) = 2dc / (c2 - v2 ) (divided by) 2d / [ square root (c2 - v2 )] = c square root (c2 - v2 )] / (c2 - v2 )
-                                                                           (Equation 6-3)
-   The expression at the extreme right of Equation 6-3 is of the form, [{a} square root) (x) /x], and if both numerator and
-denominator of such an expression is divided by square root (x) the equivalent expression a / square root (x) is obtained.
-Equation 6-3 can therefore be simplified to:
-
-t(1) / t(2) = c / square root (c2 - v2 )                                   (Equation 6-4)
-
-   Further simplification can be obtained if both numerator and denominator are multiplied by square root of (1/ c2) (The
-multiplication of the numerator and denominator of a fraction by the same quantity does not of course alter the value of
-the expression as a whole.)
-
-    The numerator of Equation 6-4 then become c square root of (1/ c2) or c/c or 1. The denominator becomes [square
-root (c2 - v2)] x [square root of (1/ c2)] or square root of [1 - v2 / c2]
-
-Equation 6-4 can therefore be expressed as:
-
-t(1) / t(2) = 1 / [square root of (1 - v2 / c2 )]                     (Equation 6-5)
+ we will determine the ratio of the time taken to cover the ground with-and-
+against the ether wind and the time taken to cover the same distance crosswind. 
 
     If the light source is at rest with respect to the ether, v = 0 and t(1) / t(2) = 1. In that case the time taken by the beam
 of light going with-and-against the ether wind is the same as the time taken by the beam of light to go crosswind. (Indeed,
 the time is the same for light beams going in any direction.) If the movable mirror is adjusted so that the two beams of
 light travel exactly the same distance, they will return exactly in step and there will be no interference fringes.
 Furthermore there will be no interference fringes if the instrument is then turned so as to have the light beams travel in
-changed directions.
+ changed directions.
 
     However, if the light source is moving with respect to the ether, then v is greater than 0,
  (1 - v2 / c2 ) is less than t(1) / t(2) is greater than 1. The light traveling with-and-against the ether would then take
@@ -2426,7 +2365,7 @@ was reoriented. One might have thought that they just happened to be unlucky eno
 when the earth happened to be motionless with respect to the ether. However, the earth travels in an ellipse about the sun
 and changes the direction of its motion every moment. If it were at rest with respect to the ether on one day, it could not
 be at rest the next.
-   Michelson and Morley made thousands of observations over many months, and in July 1887, finally announced their
+    Michelson and Morley made thousands of observations over many months, and in July 1887, finally announced their
 conclusion. There was no ether wind!
 
     I have gone into detail concerning this experiment because of the shocking nature of the result. To say there was no
@@ -2439,7 +2378,6 @@ ether wind after all. However, the experiment has been repeated over and over ag
 more accurate than even the interferometer were used for the purpose, and the result was always the same. There is no
 ether wind. This fact simply had to be accepted, and the view of the universe changed accordingly.
 
-The Fitzgerald Contraction
 
     Naturally, attempts were made to explain the results of the Michelson-Morley experiment in terms of the ether. The
 most successful attempt was that of the Irish physicist George Francis Fitzgerald (1851-1901), who in 1893 proposed that
@@ -2456,7 +2394,7 @@ is the velocity of the body, both relative to the ether. In other words:
 
    The Fitzgerald ratio is equal to the denominator of the expression in Equation 6-5, which represents the ratio of the
 distances traveled by the two beams of light in the interferometer. Multiplied by Fitzgerald’s ratio the value in Equation
-6-5 becomes 1. The distance covered by the beam of light moving with-and-against the ether wind is now decreased by
+ 6-5 becomes 1. The distance covered by the beam of light moving with-and-against the ether wind is now decreased by
 foreshortening to just exactly the extent that would allow the beam to cover the distance in the same time as was required
 by the beam traveling crosswind. In other words, the existence of the ether wind would make one of the beams take a
 longer time, but the existence of the Fitzgerald contraction produced by the same ether wind allows the beam to complete
@@ -2488,7 +2426,7 @@ is all might be well if it could be detected in principle. It cannot be detected
 While on earth, all the instruments we could conceivably use to measure the earth's diameter would share in the earth's
 motion and in it’s foreshortening. The foreshortened diameter would be measured with force-shortened instruments, and
 no foreshortening would be detected.
-   We could do better if we could get off the earth and, without sharing in the earth's motion, measure its diameter in all
+    We could do better if we could get off the earth and, without sharing in the earth's motion, measure its diameter in all
 directions (very accurately) as it speeds past. This is not exactly practical but it is something that is conceivable in
 principle.
 
@@ -2518,7 +2456,7 @@ imaginary number has mathematical interest, but no one has been able to work out
 as something that might, in some fashion, represent a maximum velocity. To be sure, no subatomic particle has ever been
 observed to move at a velocity greater than that of light in a vacuum, although velocities of better than 0.99 times that of
 light in a vacuum have been observed. At such velocities, the subatomic particles ought to be wafer-thin in the direction
-of their motion, but alas, they are so small that it is completely impractical to try to measure their length as they speed
+ of their motion, but alas, they are so small that it is completely impractical to try to measure their length as they speed
 past, and one cannot tell whether they are foreshortened or not. If, however, the length of the speeding subatomic
 particles will not do as a practical test of the validity of the Fitzgerald contraction, another property will.
 
@@ -2529,7 +2467,6 @@ Lorentz (1853-1928) so that the phenomenon is sometimes referred to as the Loren
 one could deduce that the mass of a body must increase with motion in just the same proportion as its length decreases. In
 short, if its mass while moving is (m) and its rest-mass is m(0) then:
 
-m = m(0) / [square root (1 - v2 / c2) ]                               (Equation 6-7)
 
 Again, the gain in mass is very small at ordinary velocities. At a velocity of 260,000 kilometers per second, the mass of
 the moving body is twice the rest-mass, and above that velocity it increases ever more rapidly. When the velocity of a
@@ -2549,7 +2486,7 @@ motion.
 
   Charged particles can be made to curve in a magnetic field. This is an acceleration imposed upon them by the
 magnetic force, and the radius of curvature is the measure of the inertia of the particle and therefore of its mass.
-    From the curvature of the path of a particle moving at low velocity, one can calculate the mass of the particle and then
+     From the curvature of the path of a particle moving at low velocity, one can calculate the mass of the particle and then
 predict diet what curvature it will undergo when it passes through the same magnetic field at higher velocities, provided
 its mass remains constant. Actual measurement of the curvatures for particles moving at higher velocities showed that
 such curvatures were less marked than was expected. Furthermore, the higher the velocity, the more the actual curvature
@@ -2560,11 +2497,6 @@ the relationship followed the Lorentz equation exactly.
 based on the Fitzgerald equation, the phenomenon of foreshortening also fit the facts, and this explained the negative
 results of the Michelson-Morley experiment.
 
-
-                                                      CHAPTER 7
-                                                       Relativity
-
-The Special Theory
 
 If the gain in mass of a speeding charged particle is the result of its motion relative to the ether, then a new method of
 measuring such motion might offer itself. Suppose some charged particles are measured as they speed along in one
@@ -2578,7 +2510,7 @@ determined.
    However, this method also fails, exactly as the Michelson-Morley experiment failed. The gain in mass with motion is
 the same no matter in which direction the particles move. What's more, all experiments designed to measure absolute
 motion have failed.
-In 1905, in fact, a young German-born, Swiss physicist, Albert Einstein (1879-1955), had already decided that it might be
+ In 1905, in fact, a young German-born, Swiss physicist, Albert Einstein (1879-1955), had already decided that it might be
 useless to search for methods of determining absolute motion. Suppose that one took the bull by the horns and simply
 decided that it was impossible to ·measure absolute motion by any conceivable method and considered the consequences.
 
@@ -2609,7 +2541,7 @@ the person were "throwing" light out of a flashlight instead of a ball out of hi
 
     In order to make Einstein's second assumption hold true, we must suppose that this situation does not hold for light
 at all and, in fact, that it does not hold for the ball either.
-   Suppose that the effect of the moving platform on the speed of the ball is not quite as great as we suspect and that
+    Suppose that the effect of the moving platform on the speed of the ball is not quite as great as we suspect and that
 when the motion of the platform is added to that of the ball, the overall velocity of the ball is a vanishingly small
 amount smaller than x + y. Again, when the motion of the platform is subtracted from that of the ball the overall
 velocity of the ball is a vanishingly small amount greater than x - y. Suppose, too, that this discrepancy increases as x
@@ -2632,14 +2564,7 @@ The velocity of the ball relative to ourselves ought to be 290,000+290,000 kilom
 direction, but at those velocities the effect of the moving platform has so decreased that the overall velocity is, in point
 of fact, only 295,000 kilometers per second and is still less than the velocity of light.
 
-   Indeed, this can be expressed mathematically. If two velocities [V(1) and V(2)] are added, then the new velocity (V)
-according to Newton would be V = V(1) + V(2) According to Einstein, the new velocity would be:
-V = [V(1) + V(2)] / [ 1 + V(1) V(2) / C2]
-
-
-Where C is equal to the velocity of light in a vacuum. If V(1) is equal to C, then Einstein's equation would become:
-V = [V(1) + V(2)] / [ 1 + V(1) V(2) / C2] = [C + V(2)] [C / [C + V(2)] = C
-   In other words, if one velocity were equal to the speed of light, adding another velocity to it, even again up to the
+In other words, if one velocity were equal to the speed of light, adding another velocity to it, even again up to the
 speed of light, would leave the total velocity merely at the speed of light.
 
    To put it briefly, it is possible to deduce from Einstein's assumption of the constant measured velocity of light that
@@ -2671,7 +2596,7 @@ differed from observer to observer.
     To consider what this means, imagine two identical space ships moving in opposite directions in a non-collision
 course, each spaceship possessing equipment that will enable it to measure the length and mass of the other spaceship
 as it passes by.
-   Spaceship X watches Spaceship Y flash by (in a particular direction) at 260,000 kilometers per second, and at this
+    Spaceship X watches Spaceship Y flash by (in a particular direction) at 260,000 kilometers per second, and at this
 velocity Spaceship Y is measured as being only half its rest-length and fully twice its rest-mass. Spaceship X, which to
 the people on board seems to be motionless, is to them, naturally, exactly at rest-length and rest-mass.
 
@@ -2702,7 +2627,7 @@ been a "real" change in length or mass in either ship in the past, there would r
 
    Despite everything, it is difficult to stop worrying about "reality.'' It is heartening, then, to remember that there have
 been times when we I have abandoned a spurious "reality" and have not only survived but have been immeasurably the
-better for it.
+ better for it.
 
     Thus, a child is pretty certain he knows what "up" and "down" is. His head points "up," his feet point "down" (if he
 is standing in the normal fashion); he jumps "up," he falls "down." Furthermore, he discovers soon enough that
@@ -2730,11 +2655,10 @@ ignorance.
   Once the tenets of the relativistic universe are accepted (at as early an age as possible) it, too, ceases to go against
 common sense.
 
-Mass-Energy Equivalence
 
    During the nineteenth century, chemists were increasingly convinced that mass could neither be created nor
 destroyed (the law of conservation of mars). To Lorentz and Einstein, however, mass was created as velocity increased
-and it was destroyed as velocity decreased. To be sure, the changes in mass are vanishingly small at all ordinary
+ and it was destroyed as velocity decreased. To be sure, the changes in mass are vanishingly small at all ordinary
 velocities, but they are there. Where, then, does created mass come from, and where does destroyed mass go?
 
     Let's begin by considering a body of a given mass (m) subjected to a given force (f) Under such conditions the body
@@ -2765,7 +2689,7 @@ increase in both velocity and mass.
    Where mass is not involved in energy changes (as in the Newtonian view) it is natural to think of mass as something
 apart from energy and to think that, on the one hand, there is a law of conservation of energy, and on the other, a law of
 conservation of mass, and that the two are independent.
-   Where mass changes and is thus intimately involved in energy changes (as in the Einsteinian view), it is natural to
+    Where mass changes and is thus intimately involved in energy changes (as in the Einsteinian view), it is natural to
 think of mass and energy as different aspects of the same thing, so a law of conservation of energy would include mass.
 (To make that perfectly clear, in view of our previous convictions, we sometimes speak of the law of conservation of
 mass-energy, but the word "mass" is not really needed.)                                     u
@@ -2796,7 +2720,7 @@ then becomes: 1 + v2 / 2c2 + 3v4 / 8c4 ……
   Since c, the velocity of light may be considered to have a constant value, the second and third terms (and, indeed, all
 the subsequent terms of this finite series) grow larger as v increases. But v reaches a maximum when the velocity of a
 moving body attains the velocity of light (at least, we can measure no higher velocity) therefore, the various terms are
-then at their maximum value, and v = c the series becomes 1 + ½ + 3/8 ….. As you see, the second terms is, at most,
+ then at their maximum value, and v = c the series becomes 1 + ½ + 3/8 ….. As you see, the second terms is, at most,
 less than the first, while the third term is, at most, less than the second, and so on.
   The decrease is even sharper at lower velocities, and successive terms become rapidly more and more insignificant.
 When v = c/2 (150,000 kilometers per second) the series is 1 + 1/8 + 3/128… when v = c/4 ( 75,000 kilometers per
@@ -2804,49 +2728,7 @@ second), the series is 1 + 1/32 + 3/2048 …
   In a decreasing series of this sort it is possible to show that the tail end of the series (even though it includes an
 infinite number of terms) reaches a finite and small total. We can therefore eliminate all but the first few terms of the
 series and consider those first few a good approximation of the whole series.
-  At ordinary velocities, for instance, all the terms of the series except the first (which is always 1) becomes such small
-fractions that they can be ignored completely. In that case reciprocal of the Fitzgerald ratio can be considered as equal
-to 1 with a high degree of accuracy (which is why changes in length and mass with motion went unnoticed until the
-twentieth century). To make it still more accurate, especially at very high velocities, we can include the first two terms
-of the series. That is accurate enough for all reasonable purposes, and we need not worry at all about the third term or
-any beyond it.
-
-   We can say, then, with sufficient accuracy that:
-
-1 / [square root of (1 – v2 / c2 ) = 1 + v2 / 2 c2                     (Equation 7-1)
-
-   Now let us return to the Lorentz mass relationship (Equation 6-7), which states that the mass m(1) of a body in
-motion is equal to its rest-mass m(0) divided by the Fitzgerald ratio. This is equivalent to saying that m(1)is equal to m
-(0) multiplied by the reciprocal of the Fitzgerald ratio; therefore, using the new expression for that reciprocal given in
-Equation 7-1, we can write the mass relationship as follows:
-
-m(1) = m(0) (1 + v2 / 2 c2 )                                       (Equation 7-2)
-  The increase in mass as a result of motion is m(1) – m(0), and we can call this difference simply m. If we solve
-Equation 7-2 for m(1) – m(0) (that is, for m), we find that.
-
-m = m(0) v2 / 2 c2 = ½ m(0) v2 / c2                                                      (Equation 7-3)
-
-   The expression ½ m(0) v2 , found in the right-hand portion of Equation 7-3, happens to he the value of the kinetic
-energy of the moving body (kinetic energy is equal to ½ m v2 ), if it possesses its rest-mass. Actually, it possesses a
-slightly higher mass due to its motion, but except for extremely high velocities, the actual mass is only very slightly
-higher than the rest-mass--so little higher in fact that we can let ½ m(0) v2 equal its kinetic energy and be confident of a
-high degree of accuracy. If we let this kinetic energy be represented as e. then Equation 7-3 becomes:
-
-m = e/c2                                                                    (Equation 7-4)
-
-    Remember that m represents the gain of mass with motion. Since very rapid motion, representing a very high value
-of, r, (the kinetic energy) produces only a very small increase in mass, we see quite plainly that a great deal of ordinary
-energy is equivalent to a tiny quantity of mass. Equation 7-4, which by clearing fractions can be written as the much
-more familiar:
-
-e = mc2                                                                 (Equation 7-5)
-
 can be used to calculate this equivalence.
-
-   In the cgs system, where all the units are in terms of centimeters, grams and seconds, the value of c (the velocity of
-light in a vacuum) is 30,000,000,000 centimeters per second. The value of c2 is therefore 900,000,000,000,000,000,000
-cm2/ sec2. If we set the value of m at 1 gram, then mc2 is equal to 900,000,000,000,000,000,000 gm-cm2/sec2; or, since
-1 gm- cm2/sec2 is defined as an "erg," 1 gram of mass is equal to 900,000,000,000,000,000,000, ergs of energy.
 
    One kilocalorie is equal to 41,860,000,000 ergs. This means that 1 gram of mass is equivalent to 21,500,000,000
 kilocalories. The combustion of a gallon of gasoline liberates about 32,000 kilocalories. The mass equivalence of this
@@ -2858,7 +2740,7 @@ On the other hand, if whole grams of mass could be converted wholesale into ener
 produced would have tremendous effects. In Volume III the steps by which it was learned how to do this will be
 outlined. The results are the nucleon bombs that now threaten all mankind with destruction and the nuclear reactors that
 offer it new hope for the future.
-   Furthermore, Equation 7-5 offered the first satisfactory explanation of the source of energy of the sun and other
+    Furthermore, Equation 7-5 offered the first satisfactory explanation of the source of energy of the sun and other
 stars. In order for the sun to radiate the vast energies it does, it must lose 4,600,000 tons of mass each second. This is a
 vast quantity by human standards but is insignificant to the sun. At this rate it can continue to radiate in essentially
 unchanged fashion for billions of years.
@@ -2868,7 +2750,6 @@ velocity of light, and the mere existence of nuclear bombs is fearful evidence o
 relativity. It is no wonder that of all equations in physics, e = mc2 has most nearly become a household word among the
 general population of non-physicists.
 
-Relative Time
 
 Einstein deduced a further conclusion from his assumptions and went beyond the Lorenz Fitzgerald dealings with
 length and mass to take up the question of time as well.
@@ -2882,13 +2763,12 @@ observer is increased.
    Again, the Fitzgerald ratio is involved. That-is, the time lapse (t) observed on a body moving at a given velocity
 relative to the time lapse at rest t(0) is as follows:
 
-t = t(0) [square root of (1 - v2/ c2 )                                            (Equation 7-6)
 
    At a velocity of 260,000 kilometers per second past an observer, t would equal t(0)/2. In other words, it would take
 one hour of the observer's time for half an hour to seem to pass on the moving object. Thus, if an observer's clock said
 1:00 and a clock on the moving object also said 1:00, then one hour later the. Observer’s clock would say 2:00, but the
 clock on the moving object would say only 1:30.
-   At a velocity equal to that of light, t would equal 0. It would then take forever for the clock on the moving object to
+    At a velocity equal to that of light, t would equal 0. It would then take forever for the clock on the moving object to
 show any time lapse at all to the observer. As far as the observer would be able to note, the clock on the moving object
 would always read 1:00; time would stand still on the object. This slowing of time with motion is called time
 dilatation.
@@ -2919,7 +2799,7 @@ so there need be no worries about "reality."
 
    But as for time, consider... Once at mutual rest, the clocks are again proceeding at the "normal" rate and time lapses
 are equal on both ships. Yet, previous changes in time lapses have left a record. If one clock has been slowed and has,
-in the past, registered only half an hour while the other clock was registering an hour the first clock would now be half
+ in the past, registered only half an hour while the other clock was registering an hour the first clock would now be half
 an hour slow! Each ship would firmly claim that the clock on the other ship had been registering time at a slower-than-
 normal rate, and each would expect the other's clock to be slow.
 
@@ -2951,7 +2831,7 @@ a vast amount of matter, and the presence of this amount of matter spoils the sy
 and Y.
 
    Thus, if Spaceship Y executes its turn, Spaceship X observes it make that turn. But as Spaceship X considers itself
-at rest, it continues to see the rest of the universe (the stars and galaxies) slip past it at a constant, uniform velocity
+ at rest, it continues to see the rest of the universe (the stars and galaxies) slip past it at a constant, uniform velocity
 reflecting its own constant, uniform velocity. In other words, Spaceship X sees only Spaceship Y and nothing else
 undergo non-uniform motion.
 
@@ -2983,7 +2863,7 @@ appear, either to him or to the earth-bound observers, to go backward. He would 
 
   The variation of the rate at which times passes as velocity changes destroys our concept of absoluteness of time.
 Because of this, it becomes impossible to locate an event in time in such a way that all observers can agree. In addition,
-no event can be located in time until some evidence of the event reaches the observer, and that evidence can only travel
+ no event can be located in time until some evidence of the event reaches the observer, and that evidence can only travel
 at the velocity of light.
 
    As a simple example, consider the space traveler returning to earth, after having experienced a time lapse of one
@@ -3015,7 +2895,7 @@ years. The distance is less than one light-year, in fact, so the ship can traver
 exceeded the velocity of light.
 
    Again, although the ship took only one year to get to its destination, this did not mean they beat light there, even
-though a light beam, released from earth simultaneously with the ship, would have taken ten years to cover a ten-light-
+ though a light beam, released from earth simultaneously with the ship, would have taken ten years to cover a ten-light-
 year distance. That ten-year time lapse would be true only in the earth's frame of reference. For the light beam's own
 frame of reference, since it travels at the velocity of light, the rate of passage of time would decline to zero, and the
 light beam would get to Alpha Centauri (or to any spot in the universe, however distant) in no time at all.
@@ -3046,7 +2926,7 @@ gas-pedal.) On the other hand, if Spaceship X is accelerating backward, the men 
 pressure forward (as you lurch toward the windshield when you step on your car's brake). Consequently, the crews of
 the spaceships could decide which ship was "really" moving by taking note of which set of crewmen felt inertial
 pressures.
-   From this, one could perhaps determine absolute motion from the nature and size of inertial effects. Einstein, in his
+    From this, one could perhaps determine absolute motion from the nature and size of inertial effects. Einstein, in his
 general theory of relativity, worked out what properties the universe must possess to prevent the determination of
 absolute motion in the case of non-uniform motion.
 
@@ -3078,7 +2958,7 @@ scientists generally and to those non-scientists who followed the arguments or w
 authority. But is it "really" rotating?
 
    One argument in favor of the rotation of the earth rests on the existence of the planet's equatorial bulge. This is
-explained as the result of a centrifugal effect that must surely arise from a rotation. If the earth did not rotate, there
+ explained as the result of a centrifugal effect that must surely arise from a rotation. If the earth did not rotate, there
 would be no centrifugal effect and it would not bulge. The existence of the bulge, therefore, is often taken as proof of a
 "real" rotation of the earth.
 
@@ -3110,9 +2990,8 @@ A pitcher throwing a baseball never takes into account the fact that the earth i
 waiting batter are all sharing whatever velocity the earth possesses, it is easier for the pitcher to assume that the earth is
 motionless and to judge the force and direction of his throw on that basis. For him the motionless-earth frame of
 reference is more useful than the rotating-earth frame of reference--yet that does not make the motion- less-earth frame
-of reference more valid.
+ of reference more valid.
 
-Gravitation
 
    In his general theory, Einstein also took a new look at gravitation. To Newton it had seemed that if the earth
 revolved about the sun there must be a force of mutual attraction between the earth and the sun. Einstein showed that
@@ -3142,7 +3021,7 @@ dimensional analogy of a flat putting green, if it were empty of matter. Matter,
 massive the matter, the deeper the "hollow." The earth moves about the sun as though it were circling the sun's hollow.
 If there were friction in space, it would slowly sink to the bottom of the "hollow" (that is, spiral into the sun). Without
 friction, it maintains its orbit indefinitely. The elliptical orbit of the earth indicates that the orbit about the "hollow" is
-not perfectly level with the flatness of the four-dimensional putting green. (The orbit would be a circle, if it were.) A
+ not perfectly level with the flatness of the four-dimensional putting green. (The orbit would be a circle, if it were.) A
 slight tilt of the orbit produces a slight ellipticity, while a more marked tilt produces greater ellipticity.
 
    It is these "hollows" produced by the presence of matter that give rise to the notion of curved space.
@@ -3174,7 +3053,7 @@ being studied. Like the other planets, Mercury travels in an ellipse about the s
 ellipse. This means that the planet is not always at the same distance from the sun. There is a spot in its orbit where it is
 closest to the sun, the perihelion, and a spot at the opposite end of the orbit where it is farthest from the sun, the
 aphelion. The line connecting the two is the major axis. Mercury does not repeat its orbit exactly, but moves in such a
-way that the orbit is actually a rosette, with the major axis of the ellipse slowly revolving.
+ way that the orbit is actually a rosette, with the major axis of the ellipse slowly revolving.
 
     This can be explained by the gravitational effect of nearby planets on Mercury, but it cannot all be explained. After
 all known gravitational effects are accounted for, the actual rate at which the major axis (and its two extreme points, the
@@ -3206,7 +3085,7 @@ Principe in the Gulf of Guinea off West Africa. Under British auspices an elabor
 for the specific purpose of testing the general theory. The positions of the stars in the neighborhood of the sun were
 measured and compared with their positions a half-year later when the sun was in the opposite end of the sky. The
 results confirmed the general theory.
-    Finally, Einstein's theory predicted that light would lose energy if it rose against gravity and would gain energy if it
+     Finally, Einstein's theory predicted that light would lose energy if it rose against gravity and would gain energy if it
 "fell," just as an ordinary object would. In the case of a moving object such as a ball, this loss of energy would be
 reflected as a loss of velocity. However, light could only move at one velocity; therefore the loss of energy would have
 to be reflected in a declining frequency and increasing wavelength. Thus, light leaving a star would undergo a slight
@@ -3236,14 +3115,8 @@ wavelength of the gamma ray is increased through the Doppler-Fizeau effect. The 
 moved upward can be adjusted so as to just neutralize the effect of gravitation on the falling gamma ray. The gamma
 ray will then be absorbed by the absorbing crystal. Experiments conducted in 1960 corroborated the general theory of
 relativity with great accuracy, and this was the most impressive demonstration of its validity yet.
-   It is not surprising, then, that the relativistic view of the universe is now generally accepted (at least until further
+    It is not surprising, then, that the relativistic view of the universe is now generally accepted (at least until further
 notice) among physicists of the world.
-
-
-                                                      CHAPTER 8
-                                                        Quanta
-
-Black Body Radiation
 
    The theory of relativity does not flatly state that an ether does not exist. It does, however, remove the need for one,
 and if it is not needed, why bother with it?
@@ -3266,7 +3139,7 @@ incandescence.
 
    Suppose, then, one imagined a substance capable of absorbing all the light, of all frequencies, that fell upon it. Such
 a body would reflect no light of any frequency and would therefore appear perfectly black. It is natural to call such a
-substance a block body for that reason. If a black body is brought to incandescence, its emission should then be as
+ substance a block body for that reason. If a black body is brought to incandescence, its emission should then be as
 perfect as its absorption, by Kirchhoffs rule. It should emit light in all frequencies, since it absorbs in all frequencies.
 Furthermore, since it absorbs light at each frequency more efficiently than a non-black body would, it must radiate
 more efficiently at each frequency, too.
@@ -3296,7 +3169,7 @@ infrared and you feel the radiation as heat, but you see nothing. A radiator in 
    As the temperature of an object goes up, it not only radiates more heat, but the frequency of the radiation changes
 somewhat, too. By the time a temperature of 9500K is reached, enough radiation, of a frequency high enough to affect
 the retina, is emitted for the body to appear a dull red in color. As the temperature goes higher still, the red brightens
-and eventually turns first orange and then yellow as more and more of still higher frequencies of light are emitted. At a
+ and eventually turns first orange and then yellow as more and more of still higher frequencies of light are emitted. At a
 temperature of 20000K, an object, although glowing brightly, is still emitting radiation that is largely in the infrared. It
 is only when the temperature reaches 60000K, the temperature of the surface of the sun, that the emitted radiation is
 chiefly in the visible light region of the spectrum. (Indeed, it is probably because the sun's surface is at that particular
@@ -3328,12 +3201,8 @@ further.
    If Wien raised the temperature, he found that more energy was radiated at every frequency, and that a peak was
 reached again. The new peak, however, was at a higher frequency than the first one. In fact, as he continued to raise the
 temperature, the frequency peak of radiation moved continuously in the direction of higher and higher frequencies. The
-value of the peak frequency v(max) varied directly with the absolute temperature (T), so Wien's law can be expressed
+ value of the peak frequency v(max) varied directly with the absolute temperature (T), so Wien's law can be expressed
 as follows:
-
-v(max) = k T              (Equation 8-1)
-
-where k is a proportionality constant.
 
    Both Stefan's law and Wien's law are of importance in astronomy. From the nature of a star's spectrum, one can
 obtain a measure of its surface temperature. From this one can obtain a notion of the rate at which it is radiating energy
@@ -3344,7 +3213,6 @@ recession as Doppler had thought). Reddish stars are comparatively cool, with su
 Orange stars have surface temperatures of 3000-50000K, and yellow stars (like our sun) of 5000-80000K. There are
 also white stars with surface temperatures of 8000-12,0000K and bluish stars that are hotter still.
 
-   Planck's Constant
 
     At this point the paradox arose, for there remained a puzzle as to just why black-body radiation should be distributed
 in the manner observed by Wien. In the 1890's, physicists assumed that a radiating body could choose at random a
@@ -3358,7 +3226,7 @@ fourth power of the frequency. Sixteen times as much energy should be radiated i
 form of red light, and far more still should be radiated in the ultraviolet. In fact, by Raleigh's formula, virtually all the
 energy of a radiating body should be radiated very rapidly in the far ultraviolet. Some people referred to this as the
 "violet catastrophe."
-   The point about the violet catastrophe, however, was that it did not happen. To be sure, at very low frequencies the
+    The point about the violet catastrophe, however, was that it did not happen. To be sure, at very low frequencies the
 Rayleigh equation held, and the amount of radiation climbed rapidly as the frequency of the radiation increased. But
 soon the amount of radiation began to fall short of the prediction. It reached a peak at some intermediate frequency, a
 peak that was considerably below what the Rayleigh equation predicted for that frequency, and then, at higher
@@ -3390,7 +3258,7 @@ frequency continues to rise, reaches a peak, and then begins to decline.
 frequencies than low frequencies is unalterable. However, what if a rise in temperature increased the probability that
 high-frequency light could be radiated? The second effect would therefore be weakened. In that case, radiation (at a
 higher temperature) could continue to increase, with higher frequencies, for a longer time before it was overtaken and
-repressed by the weakened second effect. The peak radiation consequently would move into higher and higher
+ repressed by the weakened second effect. The peak radiation consequently would move into higher and higher
 frequencies as the temperature went up. This was exactly what Wien had observed.
 
    But how account for the fact that the probability of radiation decreased as frequency increased? Planck made the
@@ -3422,7 +3290,6 @@ quantities even then.
 
    If the energy content (e) of a quantum of radiation is proportional to the frequency of that radiation (v) we can say
 that:
-e = hv                         (Equation 8-2)
 
 where h is a proportionality constant, commonly called Planck’s constant. If we solve Equation 8-2 for h, we find that h
 = E/v. Since the units of e in the cgs system are "ergs" and those of v are “1/seconds," the units of h are "ergs" divided
@@ -3453,7 +3320,7 @@ possible to classical notions by supposing that energy was in quanta form only w
 absorbed continuously.
 
   And yet (with the wisdom of hindsight) we can see that quanta helped explain a number of facts about absorption of
-light that classical physics could not. In Planck's time, it was well known that violet light was much more efficient than
+ light that classical physics could not. In Planck's time, it was well known that violet light was much more efficient than
 red light in bringing about chemical reactions, and that ultraviolet light was more efficient still. Photography was an
 excellent example of this, for photographic film of the type used in the nineteenth century was very sensitive to the
 violet end of the spectrum and rather insensitive to the red end. In fact, ultraviolet light had been discovered a century
@@ -3465,7 +3332,6 @@ one say that this would only explain the facts it were assumed that energy was a
 Einstein made use of a very similar argument in connection with a much more recently discovered and an even more
 dramatic phenomenon.
 
-   The Photoelectric Effect
 
 In the last two decades of the nineteenth century, it had been discovered that some metals behave as though they were
 giving off electricity under the influence of light. At that time, physicists were beginning to understand that electricity
@@ -3485,7 +3351,7 @@ carried by the light, whatever its intensity.
    The German physicist Philipp Lenard (1862-1947), after careful studies in 1902, found that for each surface that
 showed the photoelectric effect, there was a limiting threshold frequency above which, and only above which, the
 effect was to be observed.
-   Let us suppose, for instance, that this threshold frequency for a particular surface is 500 quadrillion cycles per
+    Let us suppose, for instance, that this threshold frequency for a particular surface is 500 quadrillion cycles per
 second (the frequency of orange light of wavelength 6000 A). If light of lower frequency, such as red light of 420
 quadrillion cycles per second is allowed to fall upon the surface, nothing happens. No electrons are ejected. It doesn't
 matter how bright and intense the red light is and how much energy it carries; no electrons are ejected.
@@ -3516,7 +3382,7 @@ otherwise not.
     If course, an electron might conceivably gain enough energy to break loose after absorbing a second quantum even
 if the first quantum had been insufficient. This, however, is an unlikely phenomenon. The chances are enormous that
 before it can absorb a second quantum, it will have radiated the first one away. Consequently, one quantum would have
-to do the job by itself; if not, merely multiplying the number of quantum’s (which remain individually insufficient)
+ to do the job by itself; if not, merely multiplying the number of quantum’s (which remain individually insufficient)
 would not do the job. To use an analogy, if a man is not strong enough to lift a boulder single-handed, it doesn't matter
 if one million men, each as strong as the fiat, try one after the other to lift it single-handed. The boulder will not budge.
 
@@ -3531,7 +3397,6 @@ frequency is in the infrared. Even the small quanta of infrared supply sufficien
 metal like silver, where electrons are held more strongly, the threshold frequency is in the ultraviolet. Einstein
 suggested, then, the following relationship:
 
-½ mv2 = hv - w                  (Equation 8-2)
 
 where 1/2mv2 is the kinetic energy of the emitted electron; hv (Planck's constant times frequency) the energy content of
 the quanta being absorbed by the surface; and w the energy required to break the electron free. At the threshold
@@ -3547,7 +3412,7 @@ This was most impressive.
    It became even more impressive when in 1916 the American physicist Robert Andrews Millikan (1868-1953)
 carried out careful experiments in which he measured the energy of the electrons emitted by light of different frequency
 and found that the energies he measured fit Einstein's equation closely. Furthermore, by measuring the energy of the
-electrons (1/2mv2), the frequency of the light he used (v), and the threshold frequency for the surface he was using (w),
+ electrons (1/2mv2), the frequency of the light he used (v), and the threshold frequency for the surface he was using (w),
 he was able to calculate the value of h (Planck's constant) from Equation 8-2. He obtained a value very close to that
 which Planck had obtained from his radiation equation.
 
@@ -3579,7 +3444,7 @@ particle and a wave at the same time?"
 
   The trouble here is that we automatically try to think of unfamiliar objects in terms of familiar ones; we describe
 new phenomena by saying something such as "An atom is like a billiard ball" or "Light waves are like water waves."
-But this really means only that certain prominent properties of atoms or light waves resemble certain prominent
+ But this really means only that certain prominent properties of atoms or light waves resemble certain prominent
 properties of billiard balls or water waves. Not all properties correspond: an atom isn't as large as a billiard ball; a light
 wave isn't as wet as a water wave.
 
@@ -3611,7 +3476,7 @@ through a circular hole that just fit. They might argue thus throughout all eter
    It the two observers were told that both were partly wrong and both partly right and that the object in question had
 both) triangular and circular properties, the first reaction (based on two-dimensional experience) might be an outraged,
 "How can an object be both a circle and a triangle?"
-  However, it is not that a cone is a circle and a triangle, but that it has both circular and triangular cross sections,
+   However, it is not that a cone is a circle and a triangle, but that it has both circular and triangular cross sections,
 which means that some of its properties are like those of circles and some' are like those of triangles.
 
    In the same way, photons are in some aspects wave-like and, in others particle-like. The wave-like properties so
@@ -3642,7 +3507,7 @@ arguments in favor of the fact that light waves might, as waves and not as parti
 
   A more clear-cut example of particle-like properties was advanced in 1922 by the American physicist Arthur Holly
 Compton (1892-1962). He found that in penetrating matter an X-ray (a very high-frequency form of light, to be
-discussed in some detail in Volume III of this book) sometimes struck electrons and not only exerted pressure in doing
+ discussed in some detail in Volume III of this book) sometimes struck electrons and not only exerted pressure in doing
 so, but was itself dc8ectedl In being deflected, the frequency decreased slightly, which meant that the X ray had lost
 energy. The electron, on the other hand, re-coiled in such a direction as to account for the detection of the X ray, and
 gained energy just equal to that lost by the X ray. This deflection and energy-transfer was quite analogous to what
@@ -3673,7 +3538,7 @@ luminferous ether, any more than we need an ether for gravitation or as a standa
    However much light may seem to be a waveform, in its transmission across a vacuum, it is the particle properties
 that are prominent. The photons stream across endless reaches of vacuum just as Newton had once envisaged his own
 less sophisticated particles to be doing.
-   Consequently, once relativity and quantum theory both came into general acceptance-say, by 1920--physicists
+    Consequently, once relativity and quantum theory both came into general acceptance-say, by 1920--physicists
 ceased to be concerned with the ether.
 
   Yet even if we consider light to consist of photons, it remains true that the photons have a wave aspect--that
@@ -3682,13 +3547,6 @@ something is still waving. What is it that is waving, and is it anything materia
    To answer that, let's take up the remaining two phenomena that, since ancient times, have been examples of what
 seemed to be action at a distance. It will take several chapters to do so, but the answer will eventually be reached.
 
-
-
-
-                                                       Chapter 9
-
-                                                      Magnetism
-   Magnetic Poles
 
    Forces of attraction between bodies have undoubtedly been observed since prehistoric times, but (according to
 tradition, at least) the first of the ancient Greeks to study the attractive forces systematically was Thales (640?-546
@@ -3702,7 +3560,7 @@ rock") and such iron-attracting materials are now called magnets, in consequence
 magnetism.
 
    Thales discovered that amber (a fossilized resin called "elektron" by the Greeks), when rubbed, also exhibited an
-attractive force. This was different from the magnetic force, for whereas magnetism seemed limited to iron, rubbed
+ attractive force. This was different from the magnetic force, for whereas magnetism seemed limited to iron, rubbed
 amber would attract any light object: fluff, feather, bits of dried leaves. In later centuries, objects other than amber were
 found to display this property when rubbed, and in 1600 the English physician and physicist William Gilbert (1540-
 1603) suggested that all such objects be called "electrics" (from the Greek word for amber). From this, eventually, the
@@ -3734,7 +3592,7 @@ clear weather.
 across the trackless vastness of Central Asia. However, the first uses of the needle in ocean voyages are recorded
 among Europeans of the twelfth century. The needle was eventually mounted on a card on which the various directions
 were marked off about the rim of a circle. Since the directions encompassed the rim of the card, the magnetized needle
-came to be called a compass.
+ came to be called a compass.
 
    There is no doubt that the compass is one of those simple inventions that change the world. Men could cross wide
 tracts of Ocean without a compass (some two thousand years ago the Polynesians colonized the islands that dotted the
@@ -3766,7 +3624,7 @@ made clear as long ago as 1269 by one of the few experimentalists of the Middle 
 Peregrinus.
 
    (In view of this, it might have been better if the north poles of magnets, attracted as they are in the direction of the
-North Pole, had been called south poles. However, it is too late to do anything about that now.)
+ North Pole, had been called south poles. However, it is too late to do anything about that now.)
 
     It is easy to see that the force exerted by a magnetic pole varies inversely with difference. If one allows a north pole
 to approach a south pole, one can feel the force of attraction grow stronger. Similarly, if one pushes a north pole near
@@ -3797,7 +3655,7 @@ previous value. This held true whether the force was one of attraction or repuls
 
    This can be expressed mathematically as follows: If the magnetic force between the poles is called F, the, strength of
 the two poles, m and m', and the distance between the two poles, d, then:
-F = mm' / d2                                                        (Equation 9-1)
+ F = mm' / d2                                                        (Equation 9-1)
 
    If the distance is measured in centimeters, then the force is determined in dynes (where 1 dyne is defined as 1 gram-
 centimeter per second per second). Suppose, then, that two poles of equal intensity are separated by a distance of 1
@@ -3814,12 +3672,10 @@ magnetic force is 2 dynes per unit pole. One dyne per unit pole is defined as 1 
 Hans Christian Oersted, whose contribution to the study of magnetism will be discussed). The oersted is a measure of
 magnetic force per unit pole or magnetic intensity, which is usually symbolized as H. We can say, then, that
 
-H = F/m, or: F = mH               (Equation 9-2)
 
 where F is magnetic force measured in dynes, m is magnetic strength in unit poles, and H is magnetic intensity in
 oersteds.
 
-   Magnetic Domains
 
    In the existence of both north and south poles, and in the consequent existence of magnetic repulsion as well as
 magnetic attraction, there is a key difference between magnetism and gravitation. The gravitational force is entirely one
@@ -3829,7 +3685,7 @@ of attraction, and no corresponding force of gravitational repulsion has yet bee
 A body possessing the mass of the earth will exert a fixed gravitational attraction whatever its temperature or chemical
 constitution. On the other hand, magnetic attraction can always be neutralized to a greater or lesser extent by magnetic
 repulsion, so magnetic effects will occur only in certain kinds of matter and then in widely varying strengths.
-   One might suppose (and, as we shall see in Volume III of this book, the supposition is correct) that magnetism is
+    One might suppose (and, as we shall see in Volume III of this book, the supposition is correct) that magnetism is
 widespread in nature and that magnetic forces exist in all matter. Matter might then be considered to consist of
 submicroscopic magnets. A point in favor of this view (at least in the case of iron and steel) is the fact, discovered
 early, that if a long magnetic needle is broken in two, both halves are magnets. The broken end opposite the original
@@ -3859,7 +3715,7 @@ steel is subjected to the action of a magnet, however, the submicroscopic magnet
 with considerably greater difficulty. Once the magnet is removed from the steel, however, the disorientation is equally
 difficult - difficult enough not to take place under ordinary conditions, in fact; therefore, steel generally remains a
 permanent magnet.
-    Nor is it iron only that is composed of submicroscopic magnets, for it is not only iron that is attracted to a magnet.
+     Nor is it iron only that is composed of submicroscopic magnets, for it is not only iron that is attracted to a magnet.
 Other metals, such as cobalt and nickel (which are chemically related to iron) and gadolinium (which is not) are
 attracted by a magnet. So are a number of metal alloys, some of which contain iron and some of which do not. Thus,
 Alnico, which as the name implies is made up of aluminum, nickel and cobalt (plus a little copper), can be used to
@@ -3891,7 +3747,7 @@ boundaries between adjacent domains and make them visible to the eye.
 
    Despite the existence of these domains, iron as ordinarily produced is not magnetic. That is because the domains
 themselves are oriented in random fashion so that the magnetic force of one is neutralized by those of its neighbors.
-Therefore, stroking with an ordinary magnet does not orient the submicroscopic magnets themselves (this is beyond its
+ Therefore, stroking with an ordinary magnet does not orient the submicroscopic magnets themselves (this is beyond its
 power); it merely orients the domains. Thus, the ferromagnetic material has itself done almost all the work of alignment
 to begin with, and man proceeds to add one final touch of alignment, insignificant in comparison to that which is
 already done, in order to produce a magnet.
@@ -3921,7 +3777,7 @@ Curie point is considerably higher, 11300C, while for gadolinium it is considera
 ferromagnetic at temperatures below room temperature. The Curie point may be located at very low temperatures
 indeed. For the metal dysprosiun, its value is about -1880C (850K), so it is only at liquid air temperatures that
 dysprosium forms domains and becomes ferromagnetic.
-    In some substances, the submicroscopic magnets spontaneously align themselves--but not with north poles pointing
+     In some substances, the submicroscopic magnets spontaneously align themselves--but not with north poles pointing
 all in the same direction. Rather, the magnets are aligned in parallel fashion but with north poles pointing in one
 direction in half the Cases and in the other direction in the remainder. Such substances are anti-ferromognetic, and
 because the magnetic forces of one type of alignment are neutralized by those of the other, the overall magnetic force is
@@ -3936,7 +3792,6 @@ maximum strength that a steel magnet would display.
 
 
 
-   The Earth as a Magnet
 
    The manner in which a compass needle pointed north-and- south was a tantalizing fact to early physicists. Some
 speculated that a huge iron mountain existed in the far north and that the magnetized needle was attracted to it. In 1600,
@@ -3953,7 +3808,7 @@ south pole, which attracted the north pole of a compass needle, would be equival
 the other would be equivalent to the Antarctic.
 
    The north pole of a compass needle placed in the vicinity of this spherical loadstone pointed "north" as might be
-expected. In the loadstone's "northern hemisphere," however, the north pole of a compass needle, properly pivoted, also
+ expected. In the loadstone's "northern hemisphere," however, the north pole of a compass needle, properly pivoted, also
 showed magnetic dip, turning toward the body of the loadstone. Above the south pole in the loadstone's "Arctic
 region," the north pole of the compass needle pointed directly downward. In the loadstone's "southern hemisphere," the
 north pole of the compass needle angled up away from the body of the loadstone and above its "Antarctic region"
@@ -3984,7 +3839,7 @@ to panic and mutiny.
     The existence of magnetic declination and its variation from i spot to spot on the earth's surface would be explained
 if the magnetic poles were located some distance from the geographic poles. This is actually so. The south pole of the
 earth-magnet (which attracts the north pole of the compass needle) is located in the far north and is called, because of
-its position, the north magnetic pole. It is now located just off Canada's Arctic shore, - some 1200 miles from the
+ its position, the north magnetic pole. It is now located just off Canada's Arctic shore, - some 1200 miles from the
 geographic north pole. The south magnetic pole (the north pole of the earth-magnet) is located on the shores of
 Antarctica, west of Ross Sea, some 1200 mites from the geographic south pole.
 
@@ -4013,10 +3868,9 @@ some reason, magnetized. However, it also seemed more and more likely that tempe
 enough to keep that nickel-iron mass liquid and well above the Curie point. Therefore, the core cannot be an ordinary
 magnet, and the earth's magnetism must have a more subtle origin. This is a subject to which I will return.
 
-   Magnetic Fields
 
    Magnetic force may fall off with distance according to an in- verse square law (see Equation 9-1) as gravitational
-force does, but there are important differences. As far as we know, gravitational force between two bodies is not in the
+ force does, but there are important differences. As far as we know, gravitational force between two bodies is not in the
 least affected by the nature of the medium lying between them. In other words, your weight is the same whether you
 stand on bare ground or insert an iron plate, a wooden plank, a foam rubber mattress or any other substance between
 yourself and the bare ground. For that matter, the sun's attraction of the earth is not altered when the 2000-mile
@@ -4048,7 +3902,7 @@ shorten itself as an extended rubber band would do. It was this shortening tende
 attraction, according to Faraday.
 
    The lines of force about a magnet of any shape, or about any system of magnets can be mapped without the use of
-iron filings. A compass needle always orients itself in such a way as to lie along one of these lines. Therefore, by
+ iron filings. A compass needle always orients itself in such a way as to lie along one of these lines. Therefore, by
 plotting the direction of the compass needle at various points in space, one can succeed in, mapping the lines. In this
 way, the shape of the lines of force about the earth-magnet can be determined.
 
@@ -4080,7 +3934,7 @@ need be assumed.
    Despite the fact that magnetic lines of force have no material existence, it is often convenient to picture them in literal
 fashion and to use them to explain the behavior of objects within a magnetic field. (In doing so, we are using a "model'-
 that is, a representation of the universe which is not real, but which aids thinking. Scientists use many models that are
-extremely helpful. The danger is that there is always the temptation to assume, carelessly, that the models are real; so they
+ extremely helpful. The danger is that there is always the temptation to assume, carelessly, that the models are real; so they
 may be carried beyond their scope of validity. There may also arise an unconscious resistance to any changes required by
 increasing knowledge that cannot be made to fit the model.)
 
@@ -4111,7 +3965,7 @@ relative magnetic permeability. Since this is a ratio, it is a pure number and h
 Nevertheless, refined measurements show that it is never exactly 1, but is sometimes a little larger than 1 and sometimes
 a little smaller. Those substances with permeability a little larger than 1 are said to be paramagnetic, while those with
 permeability a little smaller than 1 are diamagnetic.
-   In a paramagnetic substance, with a permeability higher than 1, the flux density is higher than it would be in a vacuum.
+    In a paramagnetic substance, with a permeability higher than 1, the flux density is higher than it would be in a vacuum.
 The lines of force crowd into the paramagnetic substance, so to speak, seeming to prefer it to the surrounding vacuum (or
 air). A paramagnetic substance therefore tends to orient itself with its longest axis parallel to the lines of force so that
 those lines of force can move through its preferred substance over a maximum distance. Again, since the flux density
@@ -4138,20 +3992,11 @@ the magnet and the orientation of iron filings parallel to the lines of force is
   Permeability (symbolized by the Greek letter "mu,") must be included in Coulomb's equation (Equation 9-2) to cover
 those cases where the poles are separated by more than vacuum:
 
-F = mm’ / (mu) d2                                             (Equation 9-3)
-
 Since (mu) is in the denominator, an inverse relationship is indicated. A diamagnetic substance with a permeability of
 less than 1 increases the magnetic force between poles, while a paramagnetic substance decreases the force. The latter
 effect is particularly marked when iron or steel, with permeabilities in the hundreds and even thousands, is between the
-poles. A bar of iron over both poles of a horseshoe magnet cuts down the magnetic force outside itself to such an extent
+ poles. A bar of iron over both poles of a horseshoe magnet cuts down the magnetic force outside itself to such an extent
 that it almost acts as a magnetic insulator.
-
-
-
-                                                      CHAPTER 10
-
-                                                      Electrostatics
-  Electric Charge
 
    Gilbert, who originated the earth-magnet idea, also studied the attractive forces produced by rubbing amber. He
 pivoted a light metal arrow so delicately that it would turn under the application of a tiny force. He could, in that way,
@@ -4173,7 +4018,7 @@ than could be squeezed into small bits of precious and semiprecious materials. S
 available in sizable quantities had to be found.
 
   In the 1660's, the German physicist Otto von Guericke (1602-1686) found such a material in sulfur. He prepared a
-sphere of sulfur, larger than a man's head, arranged so that it could be turned by a crank. A hand placed on it as it turned
+ sphere of sulfur, larger than a man's head, arranged so that it could be turned by a crank. A hand placed on it as it turned
 gradually electrified it to a hitherto unprecedented extent. Guericke had constructed the first electrical friction machine.
    Using it, Guericke discovered several similarities between electrostatic forces and magnetic forces. He found, for
 instance, that there was electrostatic repulsion as well as electrostatic attraction, just as there is both repulsion and
@@ -4204,7 +4049,7 @@ were.
 
   As a result of Gray's work, matter came to be divided into two classes. One class, of which the metals--particularly
 gold, silver, and copper and aluminum--were the best examples, allowed the passage of the electric fluid with great
-readiness. These are electrical conductors. The other group, such as amber, glass, sulfur, and rubber--just those materials
+ readiness. These are electrical conductors. The other group, such as amber, glass, sulfur, and rubber--just those materials
 that are easily electrified by rubbing--presents enormous resistance to the flow of electric fluid. These are electrical
 insulators (from a Latin word for "island," because such a substance can be used to wall off electrified objects, preventing
 the fluid from leaving and therefore making the objects an island of electricity, so to speak.)
@@ -4236,7 +4081,7 @@ concentration of the fluid, and both bodies would therefore be discharged.
 
   On the other hand, two positively-charged bodies would repel each other, for the excess fluid in one body would have
 no tendency to add to the equal excess in the other--rather the reverse. Similarly, two negatively-charged bodies would
-repel each other.
+ repel each other.
 
    Electrostatic induction was also easily explained in these terms. If a positively-charged object was brought near an un-
 charged body, the excess of fluid in the first would repel the fluid in the second and drive it toward the farthest portion of
@@ -4268,7 +4113,7 @@ represents a fluid excess and which a fluid deficit? The two forms differ only w
   Franklin was forced to guess, realizing full well that his chances of being right were only one in two-an even chance.
 He decided that glass, when rubbed, gained electric fluid and was positively charged; on the other hand, when resin was
 rubbed it lost electric fluid and was negatively charged. Once this was decided upon, all electric charges could be
-determined to be positive or negative, depending on whether they were or repelled by a charge that was already
+ determined to be positive or negative, depending on whether they were or repelled by a charge that was already
 determined to be positive or negative.
 
    Ever since Franklin's day, electricians have considered the flow of electric fluid to be from the point of greatest
@@ -4300,7 +4145,7 @@ possessed an electric charge while others did not.
 
   Of the subatomic panicles that possess an electric charge, the most common are the proton and the electron, which
 possess charges of opposite nature. In a sense, then, the proton and the electron represent the two fluids of Du Fay. On the
-other hand, the proton, under the conditions of electrostatic experiments, is a completely immobile particle, while the
+ other hand, the proton, under the conditions of electrostatic experiments, is a completely immobile particle, while the
 electron, which is much the lighter of the two, is easily shifted from one body to another. In that sense, the electron
 represents the single electric fluid of Franklin.
 
@@ -4332,9 +4177,8 @@ the equation he used to express variation of electrical force with distance was 
 magnetic forces (see Equation 9-l).
 
   If the electric charge on two bodies is q and q’, and the distance between them is d, then F, the force between them (a
-force of attraction if the charges are opposite or of repulsion if they are the same) can be expressed:
+ force of attraction if the charges are opposite or of repulsion if they are the same) can be expressed:
 
-F= q q’ / d2                                                          (Equation 10-1)
 
 provided the charges an separated by a vacuum.
 
@@ -4362,7 +4206,7 @@ equal to (9.1x 10-28) 2 multiplied by 6.67 x 10-8, or 5.5 x 10-62 dynes.
 
    We can now compare the strength of the electrical force and that of the gravitational force by dividing 2.25 x 10-19 by
 5.5 x 10-62. The quotient is 4 x 1042, which means that the electrical force (or the comparable magnetic force in the case
-of magnets) is some four million trillion trillion trillion times as strong as the gravitational force. It is fair to say, in fact,
+ of magnets) is some four million trillion trillion trillion times as strong as the gravitational force. It is fair to say, in fact,
 that gravitational force is by far the weakest force known in nature.
 
    The fact that gravitation is an overwhelming force on a cosmic scale is entirely due to the fact that we are then dealing
@@ -4388,17 +4232,15 @@ frequently spoken of as the dielectric constant.
 
   Coulomb's equation for the force between two charged particles might more generally be written, then:
 
- F = q q” / (kappa) d2                                                          (Equation 10-2)
 
-where the particles are separated by a medium with a dielectric constant of (the Greek letter "kappa").
+where the particles are separated by a medium with a dielectric constant of 
 
    Electric forces between charged particles decrease, then, if a dielectric is placed between; they decrease more as the
 dielectric constant is increased. The constituent particles of a substance like common table salt, for instance, are held
-together by electric attractions. In water, with its unusually high dielectric constant, these forces are correspondingly
+ together by electric attractions. In water, with its unusually high dielectric constant, these forces are correspondingly
 decreased, and this is one reason why salt dissolves readily in water (its particles fall apart, so to speak) and why water is,
 in general, such a good solvent.
 
-Electromotive Force
 
    If we rub a glass rod with a piece of silk, electrons shift from glass to silk; therefore, the glass becomes positively
 charged and the silk negatively charged. With each electron shift, the positive charge on the glass and the negative charge
@@ -4425,7 +4267,7 @@ some place else (from our own muscles, perhaps). The quantity of energy that mus
 on the absolute value of the original potential energy of the body or of its final potential energy, but merely upon the
 difference in potential energy between the two states. We can fall this difference in potential energy the gravitational
 potential difference.
-  Thus, an object on the 80th floor of a skyscraper has a greater potential energy than one on the 10th door of the same
+   Thus, an object on the 80th floor of a skyscraper has a greater potential energy than one on the 10th door of the same
 skyscraper. All points on the 80th floor have the same potential energy, and all points on the 10th floor have the same
 potential energy. Both floors represent equi-potential surfaces. To slide an object from one point on the 10th floor to
 another point on the 10th floor (ignoring friction) takes no energy since the gravitational potential difference is zero. The
@@ -4457,7 +4299,7 @@ of the Italian physicist Alessandro Volta (1745-1827), whose work will be descri
 difference is sometimes referred to as the "voltage."
 
   Let us return to the gravitational analogy again and consider an object resting on a flat surface. It has no tendency to
-move spontaneously to another portion of the flat surface, for there is a gravitational potential difference of zero between
+ move spontaneously to another portion of the flat surface, for there is a gravitational potential difference of zero between
 one point on the surface and another. On the other hand, if the object is suspended a meter above the surface and is
 released, it will spontaneously fall, moving from the point of higher potential energy to that of lower potential energy. It
 is the gravitational potential difference that brings about the spontaneous motion.
@@ -4489,7 +4331,7 @@ between the two faces of the crystal.
 
    The situation can also be reversed. If a crystal capable of displaying piezoelectricity is placed within an electric field so
 that a potential difference exists across the crystal, the crystal alters its shape correspondingly. If the potential difference
-is applied and taken away, over and over again, the crystal can be made Ito vibrate and produce sound waves. If the
+ is applied and taken away, over and over again, the crystal can be made Ito vibrate and produce sound waves. If the
 crystal is of the proper size and shape, sound waves of such high frequency can be produced as to be in the ultrasonic
 range. Such inter conversions of sound and electric potential are useful in today's record players.
 
@@ -4521,13 +4363,12 @@ of the second plate.
   Similarly, the positive charge on the second plate can be built up higher because of the presence of the negatively-
 charged first plate. Because the plates lend each other a greater capacity for charge, a condenser may also be called a
 capacitor.
-   The more highly charged the two plates (one positive and one negative), the greater the potential difference between
+    The more highly charged the two plates (one positive and one negative), the greater the potential difference between
 them; this is the same as saying that the higher a mountain peak and the lower a valley, the greater the distance then is to
 fall. There is thus a direct relationship between the quantity of charge and the potential difference. If we imagine a
 vacuum between the plates, we can expect the ratio between charge and potential difference to be a constant, and we can
 express this as follows:
 
-   q /v = c                                                         (Equation 10-3)
 
 where q is the charge in coulombs, and v is the potential difference in volts. The constant c is the capacitance, for which
 the units are coulombs per volt. One coulomb per volt is referred to as a farad, in honor of Michael Faraday.
@@ -4552,7 +4393,7 @@ Combining Equations 10-3 and 10-4:
 c' = (kappa) c                                           (Equation 10-5)
 
   We see, then, that placing a dielectric between the plates of a condenser multiplies the capacitance of the condenser by
-the dielectric constant The dielectric constant of air is only 1.0006 (where that of vacuum is taken as 1), so separation of
+ the dielectric constant The dielectric constant of air is only 1.0006 (where that of vacuum is taken as 1), so separation of
 the plates by air gap be accepted as an approximation of separation by vacuum. The dielectric constant of glass is about 5,
 however, so if the plates of a condenser are separated by glass, its capacitance incenses fivefold over the value for plates
 separated by air. For a given potential difference, a glass-separated condenser will pile up five times the charge an air-
@@ -4584,7 +4425,7 @@ charge is neutralized. In either case, then is a flow of charge through the body
 
   Since the sensations of a living body are mediated by the flow of tiny amounts of charge through the nerves, it is not
 surprising that the flow of charge that results from discharging a charged object can be sensed. If the flow of charge is a
-small one, the sensation may be no more than a tingle. If it is a large one, the sensation may be a strong pain like that
+ small one, the sensation may be no more than a tingle. If it is a large one, the sensation may be a strong pain like that
 produced by a sudden blow. One then speaks of an electric shock. (As in the case of a physical blow, a strong enough
 electric shock can kill.) Since condensers can pile up large charges of electricity, the shock received from such a
 condenser is much larger than that received by discharging an ordinary electrified rod of similar size.
@@ -4616,7 +4457,7 @@ public, too).
 
   In particular, the Leyden jar dramatized the matter of discharge through air. Dry air is an insulator, but insulation is
 never perfect, and if the charge on any object is great enough, it will force itself across a substance that is ordinarily an
-insulator. (Thus, you can imagine a weight resting upon a wooden plank suspended from its ends, and several feet above
+ insulator. (Thus, you can imagine a weight resting upon a wooden plank suspended from its ends, and several feet above
 the ground. The wooden plank acts as an "insulator" in the sense that the weight cannot move downward despite its
 tendency to do so as a result of the gravitational potential difference between itself and the ground. If the weight is made
 heavier and heavier, a point will be reached where the plank breaks, and the weight drops. The "insulator" has been
@@ -4648,7 +4489,7 @@ beyond doubt, showed that then was electricity in the high heavens just as there
 giant electrical discharge, and that thunder was the giant crackle that accompanied it.
 
   He went further. Franklin experimented with the manner of discharge where bodies of different shapes were involved.
-Thus, if a metal sphere were brought near a charged body, there would be a discharge, let us say, across a one-inch gap of
+ Thus, if a metal sphere were brought near a charged body, there would be a discharge, let us say, across a one-inch gap of
 air. If a metal needle were brought near the same body charged to the same extent, discharge would take place across an
 air gap of six to eight inches. This could only be taken to mean that it was easier to discharge a charged body by means of
 a pointed object than a blunt object. Furthermore, the discharge by way of the point of a needle rook place with such ease
@@ -4672,12 +4513,7 @@ climax. By the end of the eighteenth century, a new aspect of electricity came t
 the background.
 
 
-
-                                                     CHAPTER 11
-
-                                                   Electric Currents
-  Continuous Electron Flow
-  Charge can move from one point to another (something which can also be described as the flowing of an electric
+   Charge can move from one point to another (something which can also be described as the flowing of an electric
 current), as has been understood from the time of Gray in the early eighteenth century. However, before 1800 only
 momentary flows of this sort were encountered. Charge could be transferred from a Leyden jar, for instance, to the
 human body, but after one quick spark, the transfer was done. A much huger charge transfer is that of lightning, yet "as
@@ -4709,7 +4545,7 @@ and spoke of "animal electricity."
    Others, nevertheless, suspected that the origin of the electric charge might lie in the junction of the two metals rather
 than in muscle, and outstanding among this group was the Italian physicist Alessandro Volta (1745-1827). In 1800, he,
 studied combinations of dissimilar metals, connected not by muscle tissue but by simple solutions that by no stretch of
-the imagination could be considered to have any connection with a "life force."
+ the imagination could be considered to have any connection with a "life force."
 
   He used chains of dissimilar metals; rightly suspecting that he could get better results from a number of sources
 combined than from a single one. He first used a series of bowls half full of salt water (each taking the place of a frog
@@ -4741,7 +4577,7 @@ boundary, then, electrons tend to slip across from zinc to copper. The copper, w
 so to speak, from the zinc.
 
   This does not continue for long, for as the electrons enter the copper, that metal gains a negative charge while the zinc
-comes to have a positive charge. Further transfer of electrons away from the attraction of the positively-charged zinc and
+ comes to have a positive charge. Further transfer of electrons away from the attraction of the positively-charged zinc and
 into the repelling force of the negatively-charged copper quickly becomes impossible, so an equilibrium is reached while
 the charge on each metal is still extremely minute. Still, the charge is large enough to be detected, and because unlike
 charges have been separated, a contact potential difference has been set up between the two metals.
@@ -4769,11 +4605,10 @@ can be used to measure temperature in ranges far too high for ordinary thermomet
 minute electric currents can be easily detected and measured, thermocouples can be used to detect very feeble sources of
 heat; for example, that arising from the moon or from Venus.
 
-  Chemical Cells
 
    The junction of dissimilar metals by way of a conducting solution brings about a situation analogous to that of a
 thermo couple, but without the necessity of a temperature difference.
-   Suppose, for instance, that a strip of zinc is partially inserted into a solution of zinc sulfate. The zinc has a distinct
+    Suppose, for instance, that a strip of zinc is partially inserted into a solution of zinc sulfate. The zinc has a distinct
 tendency to go into solution. Each zinc atom, as it goes into solution, leaves two electrons behind so that the zinc rod
 gains a negative charge. The zinc atom minus two of the electrons it normally carries has a positive charge equal to that
 of the negative charge of the lost electrons. An electrically charged atom is called an ion, so we may summarize matters
@@ -4803,7 +4638,7 @@ guess, accept the convention that the flow of current is from the copper (the po
    A generation after Volta's experiment, Faraday termed the metal rod that served as poles when placed in solutions,
 electrodes, from Greek words meaning "route of the electricity." The positive pole he called an anode ("upper route") the
 negative pole a cathode ("lower route"), since he visualized the electricity as flowing downhill from anode to cathode.
-   Different chemicals so arranged as to give rise to a steady flow of electricity make up a chemical cell, or an electrical
+    Different chemicals so arranged as to give rise to a steady flow of electricity make up a chemical cell, or an electrical
 cell, or an electrochemical cell. All three names are used. Very often, as in Volta's original experiments, groups of cells
 are used. Groups of similar objects are referred to as "batteries," and for that reason groups of cells such as the voltaic
 pile are referred to as electric batteries, or simply batteries. (In ordinary conversation, even a single chemical cell may be
@@ -4835,7 +4670,7 @@ by electrolysis was related to the quantity of electricity passing through the s
 will be taken up in some detail in Volume III) did much to help establish the atomistic view of matter then being
 introduced by the English chemist John Dalton (1766-1844), In the course of the next century, they helped guide
 physicists to the discovery of the electron and the working out of the internal structure of the atom.
-  As a result of Faraday's studies, a coulomb can be defined not merely in terms of total quantity of charge, or of total
+   As a result of Faraday's studies, a coulomb can be defined not merely in terms of total quantity of charge, or of total
 current (something not very easy to measure accurately), but as the quantity of current bringing about a certain fixed
 amount of chemical reaction (and that last could be measured quite easily). For instance, a coulomb of electric current
 passed through a solution of a silver compound will bring about the formation of 1.18 milligrams of metallic silver.
@@ -4856,7 +4691,6 @@ work will be described later. The ampere, then, is the unit of current intensity
   If, then, a current flowing through a solution of silver compound deposits 1.18 milligrams of metallic silver each
 second, we can say that 1 ampere of current is flowing through the solution.
 
-  Resistance
 
    The rate of flow of electric current between point A and point B depends upon the difference in electric potential
 between these two points. If a potential difference of 20 volts serves to set up a current intensity of 1 ampere between
@@ -4866,7 +4700,7 @@ difference of 10 volts, one of 0.5 amperes.
    This direct proportionality between potential difference and current intensity is true only if current is passed over a
 particular win under particular conditions. If the nature of the path over which the current flows is changed, the
 relationship of potential difference and current intensity is changed, too.
-   Lengthening a wire, for instance, will reduce the current intensity produced in it by a given potential difference. If 20
+    Lengthening a wire, for instance, will reduce the current intensity produced in it by a given potential difference. If 20
 volts will produce a current intensity of 1 ampere in a wire one meter long, the same, 20 volts will produce only 0.5
 amperes in a wire of the same composition and thickness but two meters long. On the other hand, if the wire is thickened,
 the current intensity produced by a given potential difference will be increased as the cross- sectional area or, which is the
@@ -4887,49 +4721,35 @@ resistance to a quarter of the original value. Substituting tungsten for copper 
   The resistance could be measured as the ratio of the potential difference to the current intensity. If we symbolize
 potential difference as E (for "electromotive force"), current intensity as I, and resistance as R, then we can say:
 
-     R=E/I           (Equation 11-1)
-
-This is Ohm's low.
-By transposition of terms, Ohm's law can of course also be written as I = E/R and as E = IR.
 
   Resistance is measured, as one might perhaps expect, in ohms. That is, if 1 volt of potential difference produces a
 current intensity of 1 ampere through some conducting pathway, then the resistance of that pathway is 1 ohm. From
 Equation 11-1, applied to the units of the terms involved, we see that 1-ohm can be defined as 1 volt per ampere.
 
   Sometimes it is convenient to think of the conductance of a substance rather than of the resistance. The conductance is
-the reciprocal of the resistance, and the unit of conductance was (in a rare fit of scientific whimsy) defined as the mho,
+ the reciprocal of the resistance, and the unit of conductance was (in a rare fit of scientific whimsy) defined as the mho,
 which is "ohm" spelled backward.
 
    A pathway with a resistance of 1 ohm has a conductance of mho. A resistance of 3 ohms implies a conductance of 1/3
 mhos; a resistance of 100 ohms implies a conductance of 1/100 mhos, and so on. If we symbolize conductance by C,
 from Equation 11-1, we fan say that:
 
-      C=1/R=I/R                                           (Equation 11-2)
-
-so that 1 mho is equal to 1 ampere per volt.
-
    For any given substance, resistance depends upon the length and diameter of the conducting pathway (among other
 things). In general, the resistance varies directly with length (L) and inversely with the cross-sectional area (A) of the
 pathway. Resistance is, therefore, proportional to L/A. If we introduce a proportionality constant, (the Greek letter
 "rho"), we can say that:
 
-       R = (rho) L / A                                    (Equation 11-3)
-
    The proportionality constant p is the resistivity, and each substance has a resistivity characteristic for itself. If we solve
 for resistivity by rearranging Equation 11-3, we find that:
 
-         (rho) = RA / L                     (Equation 11-4)
-
-Since in the mks system, the unit of R is the ohm, that of A is the square meter (or meters) and that of L is the meter. The
-unit of (rho), according to Equation 11-4, would be ohm-meters per meter, or ohm-meter. The better the conductor, the
-lower the resistivity. The best conductor known is the metal silver, which at 00C has a resistivity of about 0.0000000152,
-or 1.52 X 10-8 ohm-meters. Copper is close behind with 0.0000000154, while gold and aluminum come next with
+The better the conductor, the
+lower the resistivity. The best conductor known is the metal silver. Copper is close behind with 0.0000000154, while gold and aluminum come next with
 0.0000000227 and 0.0000000263 respectively. In general, metals have low resistivities and are therefore excellent
 conductors. Even Nichrome, an alloy of nickel, iron and chromium, which has an unusually high resistivity for a metal,
 has a resistivity of merely 0.000001 ohm-meters. This low resistivity of metals comes about because their atomic
 structure is such that each atom has one or two electrons that are loosely bound. Charge can therefore easily be
 transferred through the metal by means of these electrons.
-   Substances with atomic structures such that all electrons are held tightly in place have very high resistivities. Even
+    Substances with atomic structures such that all electrons are held tightly in place have very high resistivities. Even
 tremendous potential differences can force very little current through them. Substances with resistivities of over a million
 ohm-meters are therefore nonconductors. Maple wood has a resistivity of 300 million ohm-meters; glass a resistivity of
 about a trillion; sulfur one of a quadrillion; and quartz something like 500 quadrillion.
@@ -4951,15 +4771,11 @@ about.)
 degree rise in temperature (t). The increase in resistivity for any given temperature is therefore p(0)(alpha)(t). The total
 resistivity at that temperature p(t) is therefore equal to the resistivity at 00C plus the increase, or:
 
-  p(t) = p(0) p(0) (alpha) (t) = p(0) [1 + (alpha) t]                     (Equation 11-5)
-
-   The constant, (alpha) which is the fractional increase in resistivity per degree, is the temperature coefficient of
-resistance.
 
    As long as the temperature coefficient of resistance remains unchanged, the actual resistance of a particular conductor
 varies with temperature in a very simple way. From the resistance of a high-melting metal wire of given dimensions it is
 therefore possible to estimate high temperatures.
-  For semiconductors, the temperature coefficient of resistivity is negative--that is, resistance decreases as temperature
+   For semiconductors, the temperature coefficient of resistivity is negative--that is, resistance decreases as temperature
 goes up. The mason for this is that as temperature goes up the hold of the material on some of its electrons is weakened;
 more are available for moving and transferring charge. The increase in the number of available electrons more than
 makes up for the additional resistance offered by the more strongly vibrating atoms, so overall resistance decreases.
@@ -4985,18 +4801,15 @@ neighborhood of absolute zero, there remain many substances (including the reall
 temperatures, such as silver, copper, and gold) that have, as yet, shown no superconductivity at even the lowest
 temperatures tested.
 
-  Electric Power
 
   It takes energy to keep an electric current in being against resistance. The amount of energy required varies directly
 with the total amount of current sent through the resistance. It also varies directly with the intensity of the current. Since,
-for a given resistance, the current intensity varies directly with potential difference (as is required by Ohm's law), we can
+ for a given resistance, the current intensity varies directly with potential difference (as is required by Ohm's law), we can
 say that the energy represented by a particular electric current is equal to the total quantity of charge transported
 multiplied by the potential difference.
 
   Since energy can be transformed into work, let us symbolize the electric energy as W. This allows us to keep E for
 potential difference, and we can let e stand for the total quantity of charge transported. We can then say:
-
-  W = EQ                  (Equation 11-6)
 
    The unit of potential difference is the volt and that of the total charge, the coulomb. If energy equals potential
 difference multiplied by total charge transferred, the unit of energy must equal volts multiplied by coulombs. However, a
@@ -5020,8 +4833,7 @@ this means is that a current, driven by a potential difference of 1 volt and pos
 power of 1 watt. In general, electric power is determined by multiplying the potential difference and the current intensity.
 If we symbolize the power as P, we can say:
 
-      P =EI                                 (Equation 11-7)
-   An electrical appliance is usually rated in watts; what is indicated, in other words, is its rate of consuming electrical
+    An electrical appliance is usually rated in watts; what is indicated, in other words, is its rate of consuming electrical
 energy. We are most familiar with this in the case of light bulbs. Here the energy expended is used to increase the
 temperature of the filament within the bulb. The greater the rate of energy expenditure, the higher the temperature
 reached, and the more intense is the light radiated. It is for this reason that a 100-watt bulb is brighter than a 40-watt bulb-
@@ -5046,13 +4858,10 @@ watt-seconds, or, joules. In other words, 1-kilowatt-hour = 3,600,000 joules. A 
 24 hours expends 2.4 kilowatt-hours of energy. The household electric bill is usually based on the number of kilowatt-
 hours of energy consumed.
 
-  From Ohm's law (Equation 11-1) we know that E=IR. Combining this with Equation 11-7, we find that:
-
-  P = I2 R                                 (Equation 11-8)
 
    In other words, the rate at which energy is expended in maintaining an electric current varies directly with the
 resistance involved, and also with the square of the current intensity.
-   There are times when it is desirable to expend as little energy as possible in the mere transportation of current, as in
+    There are times when it is desirable to expend as little energy as possible in the mere transportation of current, as in
 conducting the current from the battery (or other point of origin) to the point where the electrical energy will be converted
 into some other useful form of energy (say the light bulb, where part of it will be converted into light). In that ease, we
 want the resistance to be as small as possible. For a given length and thickness of wire, the lowest resistance is to be
@@ -5083,7 +4892,7 @@ air and be consumed. For this reason, light bulbs were evacuated in the early da
 vacuum, however, the thin tungsten wires evaporated too rapidly and had a limited lifetime. To combat this, it became
 customary to fill the bulb with an inert gas, first nitrogen, and later on, argon. These gases did not react with even white-
 hot tungsten, and the gas pressure minimized evaporation and extended the life of the bulbs.)
-  Circuits
+   Circuits
 
    Suppose that a current is made to flow through a conductor with a resistance (R) of 100 ohms. Having passed through
 this, it is next led through one with a resistance (R') of 50 ohms, and then through one with a resistance (R") of 30 ohms.
@@ -5113,7 +4922,7 @@ differences across each separately.
    Suppose that a fourth resistance is added to the series--one, let us say, of 60,000,000,000,000 ohms. The other
 resistances would add so little to this that they could be ignored. The current intensity would be 120 volts divided by 60
 trillion ohms, or two trillionths of an ampere intensity so small we might just as well say that no current is flowing at all.
-   If two conductors are separated by a sizable air gap, current does not flow since the air gap has an extremely high
+    If two conductors are separated by a sizable air gap, current does not flow since the air gap has an extremely high
 resistance. For current to flow through conductors, there must be no significant air gaps. The current must travel along an
 unbroken path of reasonably conducting materials, all the way from one pole of a chemical cell (or other source of
 electricity) to the other pole. The pathway, having left the cell, must circle back to it, so one speaks of electric circuits.
@@ -5144,7 +4953,7 @@ mentioned earlier as being of 100, 50 and 30 ohms respectively. The current flow
 between points A and B, and that has to be the same, regardless of the route taken by the current. (Thus, in going from the
 twelfth floor to the tenth floor of a building, the change in gravitational potential--two floors--is the same whether the
 descent is by way of the stairs, an elevator, or a rope suspended down the stairwell.)
-   Since under such circumstances the three resistances are usually shown, in diagrams, in parallel arrangement, they are
+    Since under such circumstances the three resistances are usually shown, in diagrams, in parallel arrangement, they are
 said to be in parallel. We can then say that when objects are placed in parallel within an electric circuit, the potential drop
 is the same across each object.
 
@@ -5176,7 +4985,7 @@ plus any appliances or other objects in series along that wire, is no longer on 
 has been shut off.
 
   When a short circuit takes place so that a sizable portion of what had previously been the total circuit is cut out, there is
-a sudden decline in the total resistance of the circuit. The resistance across the sparking air gap is now very low, probably
+ a sudden decline in the total resistance of the circuit. The resistance across the sparking air gap is now very low, probably
 much lower than that of the wire and its appliances. There is a correspondingly higher current intensity in what remains
 of the circuit, and consequently, more heat develops. The best that can then happen is that the fuse blows. If there is any
 delay in this, then the sparks forming across the air gap may well set fire to anything inflammable that happens to be in
@@ -5200,15 +5009,6 @@ represents the total resistance and I, the total current intensity; E, of course
 of them are taken. The current intensity is equal to the sum of the current intensities (I, I' and I") in the individual items.
 We can then say that:
 
-      R (t) = E / [ I + I’ + I’’]                                          (Equation 11-9)
-
-If we take the reciprocal of each side, then:
-
-1/R(t) = [ I + I’ + I’’] / E        = I / E + I’ / E + I’’ / E   (Equation 11-10)
-
-   By Ohm's law, we would expect I E to equal R. E to equal R', and I"·E to equal R", the individual resistances of the
-items in parallel. Therefore:
-           1/R(t) = 1/R + 1/R’ + 1/R’’                           (Equation 11-11)
 
    We are dealing with reciprocals in Equation 11-11. We can say, for instance, that the reciprocal of the total resistance
 is the sum of the reciprocals of the individual resistances. It so happens that the lower the value of a quantity, the higher
@@ -5222,7 +5022,6 @@ how in the remaining routes from A to B. Because parallel arrangements are very 
 used even though all others remain open. Parallel arrangements also explain why a light bulb can burn out (forming an air
 gap in place of the filament) without causing all other light bulbs to go out.
 
-  Batteries
 
    Throughout the first half of the nineteenth century, the chief source of electric current was the chemical cell, and
 though this has long since yielded pride of place as far as sheer work load is concerned, it remains popular and, indeed,
@@ -5239,7 +5038,7 @@ Leclanche (1839-1882), though it was not until twenty years later that it was co
    The potential difference between the positive and negative poles of a chemical cell depends upon the nature of the
 chemical reactions taking place--that is, on the strength of the tendency of the substances making up the poles to gain or
 lose electrons. In the case of the dry cell, the potential difference is, ideally, 1.5 volts.
-   The potential difference can be raised if two or more cells are connected in series-that is, if the positive pole of one
+    The potential difference can be raised if two or more cells are connected in series-that is, if the positive pole of one
 cell is connected to the negative pole of the next cell in line. In that case, current flowing out of the first cell under the
 driving force of a potential difference of 1.5 volts enters the second cell and gives that much of a "push" to the current
 being generated there. The current put out by the second cell is therefore driven by its own potential difference of 1.5
@@ -5271,7 +5070,7 @@ as one cell would be. When cells are arranged in parallel, however, the total in
 is less than is that of any single cell included, just as in the case of ordinary resistances. A cell system in parallel can
 therefore delver larger current intensities without significant drop in potential difference than a single cell could, although
 the maximum potential difference is no higher.
-   Electric cells of various sons have been an incalculable boon to technological advance and are still extremely useful.
+    Electric cells of various sons have been an incalculable boon to technological advance and are still extremely useful.
 Not only flashlights but also a variety of devices from children's toys to radios can be powered by electric cells. Chemists
 like Davy even used them for important scientific advances requiring the delivery of fairly large amounts of electrical
 power. However, the really large scale uses of electricity, such as that of powering huge factories and lighting whole
@@ -5302,7 +5101,7 @@ formed once again, and the sulfuric acid solution grows stronger. The cell is "r
 1859 by the French physicist Gaston Plante (1834-1889).
 
   In a superficial sense, it would seem that as the cell is recharged, electricity pours into the cell and is stored there.
-Actually, this is not so. Electricity is not directly stored; instead a chemical reaction is carried through producing
+ Actually, this is not so. Electricity is not directly stored; instead a chemical reaction is carried through producing
 chemicals that can then react to generate electricity. Thus it is chemical energy that is stored, and such chargeable cells
 are called storage batteries. It is these (usually consisting of three to six lead-plus-lead-peroxide cells in series) that are
 present under the hood of automobiles.
@@ -5322,17 +5121,11 @@ zinc.
 experiment conducted in 1819.
 
 
-
-                                                       CHAPTER 12
-
-                                                    Electromagnetism
-  Oersted’s Experiment
-
   Until the beginning of the nineteenth century, electricity and magnetism had seemed two entirely independent forces.
 To be sure, both were strong forces, both showed repulsion as well as attraction, and both weakened with distance
 according to an inverse square law. On the other hand, magnetism seemed to involve only iron plus (weakly) a few other
 substances, while electricity seemed universal in its effects; magnetism displayed poles in pairs only, while electricity
-displayed them in separation; and there was no flow of magnetic poles as there was a flow of electric charge, The balance
+ displayed them in separation; and there was no flow of magnetic poles as there was a flow of electric charge, The balance
 seemed to be more in favor of the differences than the likenesses.
 
    The matter was settled in 1819, however, as a result of a simple experiment conducted in the course of a lecture (and
@@ -5364,7 +5157,7 @@ named. Ampere began with two parallel wires, each connected to a separate batter
 was capable of sliding toward its neighbor or away from it. When the current was traveling in the same direction in both
 wires, the movable wire slid toward the other, indicating an attraction between the wins. If the current traveled in
 opposite directions in the two wires, the movable win slid away, indicating repulsion between the two wires.
-Furthermore, it Ampere arranged matters so that the movable win was free to rotate, it did so when the current was in
+ Furthermore, it Ampere arranged matters so that the movable win was free to rotate, it did so when the current was in
 opposite directions, turning through 180 degrees until the two wires were parallel again with the current in each now
 flowing in the same direction. (This is analogous to the manner in which, if the north pole of one small magnet is brought
 near the north pole of another, the second magnet will hip so as to present its south pole end to the approaching north
@@ -5396,7 +5189,7 @@ the direction in which the current is flowing. If you do that, then the sweep of
 fingernails, indicates the direction of the magnetic lines of force. (It is quite possible to make use of the direction of
 electron flow instead of that of the conventional current. The electron flow is in the direction opposite to that of the
 current, so that if you use the same device but imagine yourself to be seizing the wire with the left hand rather than the
-right, and the thumb in the direction of the electron flow, the fingers will still mark out the lines of force).
+ right, and the thumb in the direction of the electron flow, the fingers will still mark out the lines of force).
 
    Just as a magnet can come in a variety of shapes and by no means need be restricted in form to that of a simple bar, so
 a current-carrying win can come in a variety of shapes. For instance, the wire can be twisted into a loop. When that
@@ -5417,10 +5210,6 @@ current intensity. A 2-ampere current will produce twice the magnetic force at a
 ampere current will. In the case of the solenoid, then, we have the following relationship for a magnetic field that is
 virtually uniform in strength through the interior:
 
-H = [1.25 N I ] / L                           (Equation 12-1)
-
-where H is the strength of the magnetic field in oersteds, I the current intensity in amperes, N the number of turns in the
-solenoid, and L the length of the solenoid in centimeters.
 
   The relationship between the strength of the magnetic field and the current intensity makes it possible to define the
 ampere in terms of the magnetic forces set up. If, in two long straight parallel conductors, one meter apart in air, constant
@@ -5428,7 +5217,7 @@ and equal currents are flowing so as to produce a mutual force (either attractiv
 meter of length, those currents have an intensity of 1 ampere. In this way, the ampere can be defined on the basis of
 mechanical units only, and all other electrical units can then be defined in terms of the ampere. (It was because Ampere's
 work made it possible to supply such a mechanical definition of an electrical unit that his name was given to the unit.)
-   A solenoid behaves as though it were a bar magnet made out of air. This, of course, suggests that in ordinary bar
+    A solenoid behaves as though it were a bar magnet made out of air. This, of course, suggests that in ordinary bar
 magnets there is a situation that is analogous to the looping electric current of the solenoid. It was not until the twentieth
 century, however, that the existence of the electron and its relationship to the atom came to be well enough understood to
 make that thought more than a vague speculation. Only then could ordinary magnetism be pictured as the result of
@@ -5459,7 +5248,7 @@ far more intense than that of the earth.
     The sun itself is fluid throughout, though gaseous rather than liquid, and as the result of its rotation, eddies are
 undoubtedly set up. It is possible that such eddies account for the magnetic field of the sun, which makes itself most
 evident in connection with the sunspots. Stars have been located with magnetic fields much more intense than that of the
-sun, and the galaxies themselves are thought to have galaxy-wide magnetic fields.
+ sun, and the galaxies themselves are thought to have galaxy-wide magnetic fields.
 
 Application of Electromagnetism
 
@@ -5491,7 +5280,7 @@ a million and half gauss while the conducting material was exploding.
   Such intense magnetic fields require the continuing use of enormous electric currents and lavish cooling setups. They
 are therefore exorbitantly expensive. The possibility arose of avoiding much of this expense by taking advantage of the
 phenomenon of superconductivity. If certain conductors are cooled to liquid helium temperatures, their resistance drops
-to zero, so that current flowing through them develops no heat at all no matter how high the current intensity.
+ to zero, so that current flowing through them develops no heat at all no matter how high the current intensity.
 Furthermore, an electric current set up in a closed circuit at such temperatures continues flowing forever, and a magnetic
 held set up in association with it also maintains itself forever (or at least as long as the temperature is maintained
 sufficiently low). In other words, the magnetic field need not be maintained at the expense of a continuous input of
@@ -5523,7 +5312,7 @@ seem to be upon us.
 electromagnet. There is a key in the circuit that is ordinarily, through some spring action, kept in an open position, so that
 an air gap is continuously present and no current flows through the circuit. If the key is depressed by hand so that the
 circuit is closed, the current flows and the electromagnet exerts an attracting force upon a bar of iron near it.
-  However, suppose this bar of iron is itself part of the circuit and that when it is attracted to the electromagnet it is
+   However, suppose this bar of iron is itself part of the circuit and that when it is attracted to the electromagnet it is
 pulled away from a connection it makes with the remainder of the circuit. The circuit is broken and the current stops. As
 soon as the current stops, however, the electromagnet is no longer exerting an attracting force, and the iron bar is pulled
 back to its original position by an attached spring. Since this closes the circuit again, the electromagnet snaps into action
@@ -5554,7 +5343,7 @@ held strong enough to do the work of moving the heavy iron bar.
 still strong enough to activate an electromagnet to the point where a lightweight key could be pulled toward it. This
 lightweight key, in moving toward the electromagnet, closed a second circuit that was powered by a battery reasonably
 near the key, so that a current was sent through a second, shorter wire. Thanks to the shortness of the second wire and its
-consequently smaller resistance, this current was much stronger than the first. However, this second stronger current
+ consequently smaller resistance, this current was much stronger than the first. However, this second stronger current
 mirrored the first, weaker current exactly, for when the original key was depressed by hand, the far-distant key was at
 once depressed by the electromagnet, and when the original key was released by hand, the far-distant key was at once
 released by the electromagnet.
@@ -5586,7 +5375,7 @@ community.
   A more direct method of communication also depends in great part on the electromagnet. This is the telephone ("to
 speak at a distance"), invented in 1876 by a Scottish-American speech teacher, Alexander Graham Bell (1847-1922), and
 shortly afterward improved by Edison.
-   To put it as simply as possible, the telephone transmitter (into which one speaks) contains carbon granules in a box
+    To put it as simply as possible, the telephone transmitter (into which one speaks) contains carbon granules in a box
 bounded front and back by a conducting wall. The front wall is a rather thin and, therefore, flexible diaphragm. Through
 this box an electric current flows. The resistance of the carbon granules depends on how well they make contact with
 each other. The better the contact, the lower the overall resistance and (since the potential difference remains constant)
@@ -5617,7 +5406,7 @@ between the two superconducting materials to allow passage, so to speak, for the
 repelled by the magnet and floats above it. Even weights placed upon the disk will not (up to some certain limit) force it
 down into contact with the magnet. Under conditions worked with in the laboratory, disks capable of bearing weights up
 to 300 grams per square centimeter have been demonstrated. Without physical contact, the disk can rotate virtually
-frictionlessly and thus may serve as a frictionless bearing.
+ frictionlessly and thus may serve as a frictionless bearing.
 
    Tiny switches can be made by taking advantage of electro-magnetism under superconductive conditions. The first such
 device to be developed (as long ago as 1935) consisted of a thin wire of niobium about a thicker wire of tantalum. Both
@@ -5649,7 +5438,7 @@ first galvanometer ("to measure galvanic electricity"), a name suggested by Ampe
   Schweiggefs original galvanometer had a fixed coil of wire and a movable magnet, but with time it was found more
 convenient to have a fixed magnet and a movable coil. The device still depends on the deflection of a needle, but now the
 needle is attached to the coil rather than to the magnet A particularly practical device of this type was constructed in 1880
-by the French physicist Jacques Arstne d'Arsonval (1851-1940) and is known as a D'Alsonval galvanometer.
+ by the French physicist Jacques Arstne d'Arsonval (1851-1940) and is known as a D'Alsonval galvanometer.
 
    Galvanometers can be made sensitive enough to record extremely feeble current intensities. In 1903, the Dutch
 physiologist Willem Einthoven (1860-1927) invented a string galvanometer. This consisted of a very fine conducting
@@ -5681,7 +5470,7 @@ current of an intensity low enough nor to affect the remainder of the circuit in
    This small current intensity will be under the driving force of the same potential difference as will the current flowing
 in much greater Intensity through the regular route of the circuit between the points across which the galvanometer has
 been placed. The tiny current intensity driven through the high-resistance galvanometer will vary with the potential
-difference. The scale behind the moving needle can then be calibrated in volts, and the galvanometer becomes a
+ difference. The scale behind the moving needle can then be calibrated in volts, and the galvanometer becomes a
 voltmeter.
 
    Once current intensity and potential difference through some circuit or portion of a circuit is measured by an ammeter
@@ -5711,15 +5500,6 @@ would flow between B and C and the galvanometer would not read zero), and the po
 same as from C to D, by the same argument. In terms of current intensities and resistances, we can express the equalities
 in potential difference thus:
 
-I(1)R(1) = I(2)R(3)                   (Equation 12-2)
-I(1)R(2) = I(2)R(4)                    (Equation 12-3)
-
-If we divide Equation 12-2 by Equation 12-3, we get:
-
-R(1) / R(2) = R(3) / R(4)                   (Equation 12-4)
-
-   Now suppose that R(1) is the unknown resistance that we want to measure, while R(2) is a known resistance. As for R
-(3) and R(4) they are variable resistances that can be varied through known steps.
 
    A very simple variable resistance setup can consist of a length of wire stretched over a meter stick, with a sliding
 contact capable of moving along it. The sliding contact can represent point C in the device described above. The stretch
@@ -5739,12 +5519,11 @@ value.
 ratio R(3) / R(4). Wheatstone used this device to measure resistances in 1843, and (although some researchers had used
 similar instruments before him) it has been called the Wheatstone bridge ever since.
 
-  Generators
 
   The electromagnet, however useful, does not in itself solve the problem of finding a cheap source of electricity. If the
 magnetic field must be set up through the action of a chemical cell, the field will remain as expensive as the electric
 current that sets it up, and large-scale us will be out of the question.
-  However, the manner in which an electromagnet was termed was bound to raise the question of the possibility of the
+   However, the manner in which an electromagnet was termed was bound to raise the question of the possibility of the
 reverse phenomenon. It an electric current produces a magnetic field, might not a magnetic field already in existence be
 used to set up an electric current?
 
@@ -5775,7 +5554,7 @@ the lines of force collapsed inward again, momentarily setting up a current in a
 
   He showed this fact more plainly to himself (and to the audiences to whom he lectured) by inserting a magnet into a
 coil of wire that was attached to a galvanometer. While the magnet was being inserted, the galvanometer needle kicked in
-one direction; and while it was being withdrawn, it kicked in the other direction. While the magnet remained at rest
+ one direction; and while it was being withdrawn, it kicked in the other direction. While the magnet remained at rest
 within the coil at any stage of its insertion or withdrawal, there was no current in the coil. However, the current was also
 initiated in the coil if the magnet was held stationary and the coil was moved down over it or lifted oh again, it didn't
 matter, after all, whether the wire moved across the lines of force, or the lines of force moved across the wire.'
@@ -5807,7 +5586,7 @@ induced current at all.
 
   In addition, if the wire is in coils, and each coil cuts across the lines of force, the potential difference driving the
 induced current is multiplied in intensity by the number of coils per unit length.
-   The direction of the induced current can be determined by using the right hand, according to a system first suggested
+    The direction of the induced current can be determined by using the right hand, according to a system first suggested
 by the English electrical engineer John Ambrose Fleming (1849-1945) and therefore called Fleming’s rule. It is applied
 without complication when the wire is moving in a direction perpendicular to that of the lines of force. To apply the rule,
 extend your thumb, index finger and middle finger so that each forms a right angle to the other two--that is, allowing the
@@ -5837,10 +5616,6 @@ burning zinc), or by a turbine that could be turned by running water, so that st
 produce electricity. It took fifty years to work out all the technical details that stood in the way of making the generator
 truly practical, but by the 1880's cheap electricity in quantity was a reality; and the electric light and indeed the
 electrification of society in general became possible.
-                                                     CHAPTER 13
-
-                                                 Alternating Current
-  The Armature
 
   In modern generators, Faraday's copper disk turning between the poles of a magnet is replaced by coils of copper wire
 wound on an iron drum turning between the poles of an electromagnet. The turning coils make up the armature. To see
@@ -5864,7 +5639,7 @@ the loop.
 each of which is centered about the shaft that serves as an axis around which the loop rotates. The current would tend to
 flow from Ring B through the R wire into the L wire and back into Ring A. If one end of a circuit is connected to one ring
 by way of a brushing contact, and the other end of the same circuit to the other ring, the current generated in the turning
-armature would travel through the entire circuit.
+ armature would travel through the entire circuit.
 
    But let's consider the rectangular loop a bit longer. Since the loop is rotating, the L wire and R wire cannot move up
 and down, respectively, indefinitely. They are, in fact, constantly changing direction. As the L wire moves up, it curves to
@@ -5896,7 +5671,7 @@ is, we can decide to let the current intensity be measured in positive numbers w
 negative numbers when its flow is in the other. Therefore, after the intensity has dropped to zero, it continues smoothly
 dropping to a minimum when the wires (left and right) are moving perpendicular to the lines of force; and it rises
 smoothly to zero again when the wires (top and bottom) are moving parallel to the lines of force once more. This
-completes one rotation, and the cycle begins again.
+ completes one rotation, and the cycle begins again.
 
   If, for convenience, we imagine the maximum current intensity to be 1 ampere, then in the first quarter of the rotation of
 the loop the intensity changes from 0 to + 1; in the second quarter from +1 to 0; in the third quarter from O to -1; and in
@@ -5927,7 +5702,7 @@ current can be produced.
 objections before it could be generally accepted. Edison, for instance, was a great proponent of direct current and, during
 the closing decades of the nineteenth century, fought the use of alternating current bitterly. (The great proponent of
 alternating current was the American inventor George Westinghouse [1846-1914]).
-  In considering this competition between the two types of current, it may seem natural at first that DC should be
+   In considering this competition between the two types of current, it may seem natural at first that DC should be
 favored. In fact, AC may seem useless on the face of it. After all, a direct current is "getting somewhere" and is therefore
 useful, while an alternating current "isn't getting anywhere" and therefore can't be useful--or so it might seem.
 
@@ -5959,15 +5734,12 @@ questions-- for instance, as to how to make even the simplest calculations invol
 includes I (current intensity) or E (potential difference), one is entitled to ask what value to insert when an alternating
 current has no set value for either quantity, but a value that constantly varies from zero to some maximum value I(max)...
 and E(max)), first in one direction and then in the other.
-   One must then judge these properties of the alternating current by the effects they produce, rather than by their sheer
+    One must then judge these properties of the alternating current by the effects they produce, rather than by their sheer
 numerical values. It can be shown, for instance, that an alternating current can, in heat production and in other uses, have
 the same effect as a direct current with definite values of I and E. The values of I and E therefore represent the effective
 current intensity and the effective potential difference of the alternating current, and it is these effective values that I and
 E symbolize in alternating currents. The effective values are related to the maximum values as follows:
 
- I = I(max) / 1.44                      (Equation 13-1)
-
-E = E(max) / 1.44                       (Equation 13-2)
 
 One might suppose that having defined I and E for alternating currents one could proceed at once to resistance,
 representing that by the ratio of E/I (the current intensity produced by a given potential difference) in accordance with
@@ -5990,7 +5762,7 @@ magnetic field. (The lines of force spreading out from one loop in the coils cut
 current in a coil is cut off, the lines of force of the collapsing magnetic held cut across the very coils in which the current
 has been cut oh. As current starts or stops in the coil, an induced current is set up in that same coil. This is called self-
 induction or inductance, and it was discovered by Henry in 1832. (Here Henry announced his discovery just ahead of
-Faraday, who made the same discovery independently; Faraday, you will remember, just anticipated Henry in connection
+ Faraday, who made the same discovery independently; Faraday, you will remember, just anticipated Henry in connection
 with electromagnetic induction itself.)
 
    Almost simultaneously with Henry and Faraday, a Russian physicist, Heinrich Friedrich Emil Lenz (1804-1865),
@@ -6022,13 +5794,11 @@ largely neutralized by inductance, and will only a small (alternating) current i
 rate of 1 ampere per second and, in the process, induces an opposed potential difference of 1 volt, the circuit is said to
 have an inductance of 1 henry. By this definition, 1 henry is equal to 1 (volt per ampere) per second, or 1 volt-second per
 ampere (volt-sec/amp).
-   The resistance to current flow produced by self-induction depends not only on the value of the inductance itself but
+    The resistance to current flow produced by self-induction depends not only on the value of the inductance itself but
 also on the frequency of the alternating current, since with increasing frequency, the rate of change in current intensity
 with time (amperes per second) increases. Therefore, the more cycles per second, the greater the resistance to current
 flow by a given inductance. Suppose we symbolize inductance as L and the frequency of the alternating current as f. The
 resistance produced by these two factors is called the inductive reactance and is symbolized as X(L) turns out that:
-
-X(L) = 2 (pi) f L                                      (Equation 13-3)
 
   If L is measured in henrys, that is in volt-seconds per ampere, and f is measured in per-second units, then the units of
 X, must be (volt-seconds per ampere) per second. The seconds cancel and the units become simply volts per ampere,
@@ -6053,7 +5823,7 @@ glow. The filament reacts to the flow of current through itself and not to the f
 circuit somewhere else through which there is no flow of current.
 
   The greater the capacitance of a condenser, the more intense the current that sloshes back and forth, because a greater
-charge can be piled onto first one plate then the other. Another way of putting this is that the greater the capacitance of a
+ charge can be piled onto first one plate then the other. Another way of putting this is that the greater the capacitance of a
 condenser, the smaller the opposition to the current flow, since there is more room for the electrons on the place and
 therefore less of a pile-up of negative-negative repulsion to oppose a continued flow.
 
@@ -6064,7 +5834,6 @@ electrons during the course of one half-cycle, and the smaller the negative-nega
 flow. (In other words, raising the frequency lowers the capacitive reactance, though it raises the inductive reactance.) The
 inverse relationship can be expressed as follows:
 
-X(c) = 1 / [2 (pi) f C]                                    (Equation 13-5)
 
   The capacitance (C) is measured in farads--that is in coulombs per volt or, what is equivalent, in ampere-seconds per
 volt. Since the unit of frequency (f) are per-seconds, the units of 2(pi)fC are ampere-seconds per volt per seconds, or
@@ -6084,7 +5853,7 @@ fall in potential difference. In either case, current intensity and potential di
    Yet if there is both a capacitive reactance and an inductive reactance in the circuit, the effect of one is to cancel that of
 the other. The lead of the capacitive reactance must be subtracted from the lag of the inductive reactance. The total
 impedance can be expressed as follows:
-Z = square root of [ R2 +{X(c) - X(c)} 2]        (Equation 136)
+ Z = square root of [ R2 +{X(c) - X(c)} 2]        (Equation 136)
 
    If the circuit is so arranged that the capacitive reactance equals the inductive reactance, then X(L) – X (c ) = 0; and Z
 = R. The impedance of the alternating current circuit is then no greater than the ordinary resistance of an analogous direct
@@ -6116,7 +5885,7 @@ or twelve amperes at 10 volts, In each case, the power would be the same--120-wa
 
   There are advantages to having a given electric power appear in a high-volt, low-ampere arrangement under some
 conditions and in a low-volt, high-ampere arrangement under other conditions. In the former case, the low current
-intensity makes it possible to use relatively thin copper wire in the circuit without fear of undue heating effects. In the
+ intensity makes it possible to use relatively thin copper wire in the circuit without fear of undue heating effects. In the
 latter case, the low potential difference means that there is a smaller chance of breaking down the insulation or producing
 a short circuit.
 
@@ -6148,7 +5917,7 @@ alternating current that keeps in perfect step with the alternating current in t
 
   The potential difference of the induced current depends on the number of coils in the secondary as compared with the
 number in the primary. Thus, if the current in the primary has a potential difference of 120 volts and if the secondary
-contains ten times as many turns of wire as does the primary, then the induced current will have a potential difference of
+ contains ten times as many turns of wire as does the primary, then the induced current will have a potential difference of
 1200 volts. This is an example of a step-up transformer. If the induced current produced by such a transformer is used to
 power the primary in another transformer in which the secondary now has only one-tenth the number of coils that the
 primary has, the new induced current is back at 120 volts. The second transformer is a step- down transformer.
@@ -6179,7 +5948,7 @@ alternating current.
 versatility of electricity as a form of useful energy.
 
   Motors
-  Thanks to the development of the generator, mechanical energy could be converted to electrical energy, and it was
+   Thanks to the development of the generator, mechanical energy could be converted to electrical energy, and it was
 possible to have large supplies of electricity arising, indirectly, out of burning coal or falling water. Thanks to the
 development of alternating current and transformers, this electrical energy could be transported over long distances and
 conducted into every home or factory.
@@ -6211,7 +5980,7 @@ current in the wire is moving away from us, so that its lines of force run in cl
 will be greater below and the wire will be pushed upward.
 
 To summarize, consider a magnet with lines of force running from right to left:
-If a wire without current is moved upwards, current toward you is induced.
+ If a wire without current is moved upwards, current toward you is induced.
 
 If a wire without current is moved downwards, current away from you is induced.
 
@@ -6242,7 +6011,7 @@ be brought about by both direct current and alternating current. Some motors are
 burning coal into the mechanical energy of a turning armature and convert that in turn into electrical energy. The
 electrical energy so produced is poured into the second device, used as a motor, and there it is convened into the
 mechanical energy of a turning armature. Of course, the generator can be large, supplying enough electric energy to run
-numerous small motors.
+ numerous small motors.
 
    Once large generators made it practical to produce large quantities of electricity, and transformers made it practical to
 transport large quantities of electricity, it was only necessary that this electricity be conducted to the millions of motors in
@@ -6270,12 +6039,6 @@ toothbrushes.
    Thanks to Faraday and Henry (with assists from Tesla and Steinmetz), the lives of the citizens of the industrial portions
 of the world have thus come to be composed, in large measure, of a complex heap of electrical gadgetry.
 
-
-
-                                                      CHAPTER 14
-                                             Electromagnetic Radiation
-  Maxwell’s Equations
-
 By mid-nineteenth century, the connection between electricity and magnetism was well established and being put to
 good use. The generator and the motor had been invented, and both depended on the interrelationship of electricity and
 magnetism.
@@ -6301,7 +6064,7 @@ induce a changing magnetic field, which in turn had to induce a changing electri
 so to speak, and the held progressed outward in all directions. The result was a radiation in the properties of a waveform.
 In short, Maxwell predicted the existence of electromagnetic waves with frequencies equal to that in which the
 electromagnetic field waxed and waned.
-   It was even possible for Maxwell to calculate the velocity at which such an electromagnetic wave would have to move.
+    It was even possible for Maxwell to calculate the velocity at which such an electromagnetic wave would have to move.
 He did this by taking into consideration the ratio of certain corresponding values in the equations describing the force
 between electric charges and the force between magnetic poles. This ratio turned out to have the value of 300,000
 kilometers per second:
@@ -6333,7 +6096,7 @@ changes in the geometry of space. This required the presence of no matter. Nothi
 waves.
 
   Of the four different phenomena which, from Newton's time onward, have threatened to involve action-at-a-distance,
-no less than three, thanks to Maxwell's equations, were shown to be different aspects of a single phenomenon. Electricity,
+ no less than three, thanks to Maxwell's equations, were shown to be different aspects of a single phenomenon. Electricity,
 magnetism and light were all included in the electromagnetic field. Only the gravitational force remained outside.
 Maxwell, recognizing the important differences between gravity and electromagnetism, made no attempt to include the
 gravitational field in his equations. Since his time, some attempts have been made, notably by Einstein in the latter half of
@@ -6360,8 +6123,5 @@ attachments to drifting atoms and groups of atoms in solution, made their appear
 so intense that it has been referred to as the Second Scientific Revolution (the First, of course, being that initiated by
 Galileo).
 
-  It is with the Second Scientific Revolution that the third volume of this book will deal.
 
-
-                                                             End
-
+  
