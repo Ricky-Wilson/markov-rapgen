@@ -13,12 +13,12 @@ import pickle
 
 
 #pickle library is unecessary in a full implementation but is being included to demonstrate my knowledge
+#markov_database = pickle.load(open("markov_database.p", "r"))
 
-markov_database = pickle.load(open("markov_database.p", "r"))
-
-#text_file = open("phrases_generated.txt", "w")
+text_file = open("phrases_generated.txt", "w")
 print (markov_database.make_sentence())
 
+####
 #for i in range(300):
 #	text_file.write(markov_database.make_short_sentence(800))
 #	text_file.write ("\n")
