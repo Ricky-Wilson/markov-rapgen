@@ -20,15 +20,15 @@ $ source venv/bin/activate
 ```
 
 Install dependencies from "requirements.txt" via pip:
-git h```
+```
 (venv) $ pip install -r requirements.txt
 ```
 
 ## Execution
 
-Run ```main.py```. You will be asked to input digits - separate each digit with spaces.
+Run `main.py`. You will be asked to input digits - separate each digit with spaces.
 
-Sentences will be generated in the file specified by ```DB_FILE```
+Sentences will be generated in the file specified by `DB_FILE`
 Sentences will also be printed to the screen.
 
 
