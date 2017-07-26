@@ -4,7 +4,7 @@ import os
 import pickle
 import markovify
 from settings import available_texts
-from settings import DB_FILE, FILE_OUT, STATE_SIZE, MAX_SENTENCES
+from settings import DB_FILE, FILE_OUT, STATE_SIZE, MAX_SENTENCES, MAX_SENTENCE_LEN
 from settings import NEW_DB, GENERATE
 
 
@@ -25,7 +25,7 @@ def prompt_input():
     nums = sorted(set([int(i)
                         for i in nums
                         if (i.isdigit() and int(i) < len(available_texts))]))
-
+    '''
     #Grabs the filepaths for the indexes in list
     input_filenames = [ str(available_texts[i][1])
                         for i in nums
@@ -35,8 +35,10 @@ def prompt_input():
     weights = [ available_texts[i][2]
                 for i in nums
                 if i < len(available_texts)]
+    '''
 
-    return input_filenames, weights
+    names, filenames, weights = zip(*[available_texts[i] for i in nums])
+    return names, filenames, weights
 
 #Creates Pickle Object using input selections
 def database_init(input_filenames, weights, DB_FILE):
@@ -66,7 +68,7 @@ def database_init(input_filenames, weights, DB_FILE):
     print("Markov Database Generated at " + str(DB_FILE) + "\n")
 
 #Writes markov sentences from Pickle object into file.
-def generate_phrase(DB_FILE, FILE_OUT):
+def generate_phrase(names, DB_FILE, FILE_OUT):
 
     #Load binary pickle file
     with open(DB_FILE, 'rb') as f:
@@ -81,9 +83,13 @@ def generate_phrase(DB_FILE, FILE_OUT):
 
     #Writes i sentences to file
     with open(FILE_OUT, 'a') as f:
+
         f.write('\n')
+        f.write(str("{} - {}-Gram".format(str(names), str(STATE_SIZE))))
+        f.write('\n')
+
         for i in range(MAX_SENTENCES):
-            sentence = str(markov_database.make_short_sentence(80))
+            sentence = str(markov_database.make_short_sentence(MAX_SENTENCE_LEN))
             #Checks whether sentence is 'None' or Nonetype before writing.
             if not (sentence == None or sentence =='None'):
                 f.write(sentence)
@@ -96,8 +102,8 @@ def generate_phrase(DB_FILE, FILE_OUT):
 if __name__ == "__main__":
 
     if NEW_DB:
-        input_filenames, weights = prompt_input()
-        database_init(input_filenames, weights, DB_FILE)
+        names, filenames, weights = prompt_input()
+        database_init(filenames, weights, DB_FILE)
 
     if GENERATE:
-        generate_phrase(DB_FILE, FILE_OUT)
+        generate_phrase(names, DB_FILE, FILE_OUT)

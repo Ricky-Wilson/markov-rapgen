@@ -8,14 +8,14 @@ DB_FILE = "db/markov_database.p"
 FILE_OUT = "dist/generated_phrases.txt"
 
 #This value dictates the N-Gram size for the Markov Chain.
-#Max Recommended = 2
-STATE_SIZE = 1
+#Recomended value at 1 or 2
+STATE_SIZE = 2
 
 #Max Sentences
-MAX_SENTENCES = 10
+MAX_SENTENCES = 20
 
 #Max Sentence Length
-MAX_SENTENCE_LEN = 60
+MAX_SENTENCE_LEN = 50
 
 #Dict of available texts to create corpus from -
 #Structure: {index: [name, filepath, weight]}
@@ -29,4 +29,5 @@ available_texts = [
     ['gleesh',       'corpus/rappers/gleesh.txt', .6   ],
     ['thugger',      'corpus/rappers/youngthug.txt', .5   ],
     ['travis scott', 'corpus/rappers/travisscott.txt', .5   ],
+    ['carti',        'corpus/rappers/carti.txt', .6   ],
 ]
