@@ -3,13 +3,12 @@
 import markovify
 import pickle
 import os
-import settings
 from settings import available_texts
 from settings import DB_FILE, FILE_OUT, STATE_SIZE, MAX_SENTENCES
 from settings import NEW_DB, GENERATE
 
 
-#Prompts input and returns data
+#Prompts input and returns filepaths, weights
 def prompt_input():
 
     #Displays a list of all items in available_texts
@@ -24,7 +23,7 @@ def prompt_input():
                     for i in nums
                     if (i.isdigit() and int(i) < len(available_texts))]))
 
-    #Grabs the directories of the indexes in list
+    #Grabs the filepaths for the indexes in list
     input_filenames = [ str(available_texts[i][1])
                         for i in nums
                         if (i in available_texts.keys() )]
@@ -41,15 +40,13 @@ def database_init(input_filenames, weights, DB_FILE):
 
     model_list = []
 
-    #'Markovify' each file from input_filenames
-    #Append each file to list
+    #'Markovify' each file from input_filenames. Append to list
     for filename in input_filenames:
         f = open (filename)
         text = f.read()
         model = markovify.Text(text, state_size=STATE_SIZE)
         model_list.append(model)
 
-    #Run the 'combine' method over each model and its respective weight
     model_combo = markovify.combine((model_list), weights)
 
     #If database directory/file does not exist, create it
@@ -69,7 +66,7 @@ def database_init(input_filenames, weights, DB_FILE):
 #Writes markov sentences from Pickle object into file.
 def generate_phrase(DB_FILE, FILE_OUT):
 
-    #Load the Binary pickle file
+    #Load binary pickle file
     with open(DB_FILE, 'rb') as f:
         markov_database = pickle.load(f)
 
