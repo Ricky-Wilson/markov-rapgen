@@ -12,10 +12,8 @@ from settings import NEW_DB, GENERATE
 def prompt_input():
 
     #Displays a list of all items in available_texts
-    for key in available_texts.keys():
-        print ( str(key) + " - " + str(available_texts[key][0]) )
-
-
+    for i, text in enumerate(available_texts):
+        print("{} - {}".format(i, text[0]))
 
     #Prompts input and splits input into list
     if sys.version_info[0] < 3:
@@ -25,18 +23,18 @@ def prompt_input():
 
     #Filters and sorts list by only valid numerical indexes
     nums = sorted(set([int(i)
-                    for i in nums
-                    if (i.isdigit() and int(i) < len(available_texts))]))
+                        for i in nums
+                        if (i.isdigit() and int(i) < len(available_texts))]))
 
     #Grabs the filepaths for the indexes in list
     input_filenames = [ str(available_texts[i][1])
                         for i in nums
-                        if (i in available_texts.keys() )]
+                        if i < len(available_texts)]
 
     #Grabs the weights for the indexes in list
     weights = [ available_texts[i][2]
                 for i in nums
-                if (i in available_texts.keys() )]
+                if i < len(available_texts)]
 
     return input_filenames, weights
 
@@ -58,9 +56,8 @@ def database_init(input_filenames, weights, DB_FILE):
     if not os.path.exists(os.path.dirname(DB_FILE)):
         try:
             os.makedirs(os.path.dirname(DB_FILE))
-        except OSError as exc: # Guard against race condition
-            if exc.errno != errno.EEXIST:
-                raise
+        except errno.EEXIST:
+            pass
 
     #Opening file as 'wb' = 'write binary'
     #Dump model_combo into the binary pickle file.
@@ -79,12 +76,12 @@ def generate_phrase(DB_FILE, FILE_OUT):
     if not os.path.exists(os.path.dirname(FILE_OUT)):
         try:
             os.makedirs(os.path.dirname(FILE_OUT))
-        except OSError as exc: # Guard against race condition
-            if exc.errno != errno.EEXIST:
-                raise
+        except errno.EEXIST:
+            pass
 
     #Writes i sentences to file
-    with open(FILE_OUT, 'w') as f:
+    with open(FILE_OUT, 'a') as f:
+        f.write('\n')
         for i in range(MAX_SENTENCES):
             sentence = str(markov_database.make_short_sentence(80))
             #Checks whether sentence is 'None' or Nonetype before writing.
