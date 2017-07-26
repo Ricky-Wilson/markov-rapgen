@@ -1,8 +1,8 @@
 #Compatible with Python 3.6+
-
-import markovify
-import pickle
+import sys
 import os
+import pickle
+import markovify
 from settings import available_texts
 from settings import DB_FILE, FILE_OUT, STATE_SIZE, MAX_SENTENCES
 from settings import NEW_DB, GENERATE
@@ -15,8 +15,13 @@ def prompt_input():
     for key in available_texts.keys():
         print ( str(key) + " - " + str(available_texts[key][0]) )
 
+
+
     #Prompts input and splits input into list
-    nums = input("\nPrint Digits (Space Separated): ").split()
+    if sys.version_info[0] < 3:
+        nums = raw_input("\nPrint Digits (Space Separated): ").split()
+    else:
+        nums = input("\nPrint Digits (Space Separated): ").split()
 
     #Filters and sorts list by only valid numerical indexes
     nums = sorted(set([int(i)
