@@ -55,25 +55,26 @@ Sentences will also be printed to the screen.
 ## Structure
 
 #### `main.py`
-The main file. Run this script in your shell.
-Make sure the following parameters are set to True.
-
+The main file. Run this script with the command:
 ```python
-NEW_DB = True
-GENERATE = True
+python main.py
 ```
 
+Make sure to have `NEW_DB = True` and `GENERATE = True` in settings for it to run properly.
 You can set either variable to `False` if you would like to test an individual component.
 
-#### `database_init.py`
-This will generate a new database when called.
-The database is actually a pickled object stored at `DB_FILE`.
+#### `settings.py`
 
+Contains all constants and data structures.
 
-#### `phrase_generator.py`
-Generates a new phrase.
-Retrieves the pickle object and prints markov sentences.
-Set the parameters for sentences here.
+`NEW_DB` - (Bool) Controls prompt and db creation.
+`GENERATE` - (Bool) Controls text generation.
+`DB_FILE` - (String) Specifies Pickle file for read/write.
+`FILE_OUT` - (String) Specifies .txt file for write.
+`STATE_SIZE` - (Int) Dictates the text-state size for the Markov Chain.
+`MAX_SENTENCES` - (Int) Controls # of sentences written.
+`MAX_SENTENCE_LEN` - (Int) Controls max length of sentences
+`available_texts` - {Dict} Stores all available texts and their details
 
 #### `corpus/`
 Contains all text.
