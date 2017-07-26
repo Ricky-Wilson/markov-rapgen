@@ -16,7 +16,6 @@ import os
 
 def database_init(input_filenames, DB_FILE):
 
-
     model_list = []
 
     #Loop through input_filenames list and markovify each. Add models to a list
@@ -38,7 +37,8 @@ def database_init(input_filenames, DB_FILE):
             if exc.errno != errno.EEXIST:
                 raise
 
-    with open(DB_FILE, 'w') as f:
+    #Opening file as 'wb' = 'write binary' because the output file needs to be opened in binary mode.
+    with open(DB_FILE, 'wb') as f:
         pickle.dump(model_combo, f)
     print("Markov Database Generated at " + str(DB_FILE))
 

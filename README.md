@@ -1,16 +1,14 @@
 
 
-
 # Rapgen
 
 Markov-Chain Rap Lyrics Generator
 
-
 ## Setup
 
-You will need Git, Python (v2.7), and pip to be installed.
+You will need Git, Python (v3.6+), and pip to be installed.
 
-*AS OF NOW, THIS WILL NOT WORK ON ANY VERSION OTHER THAN Python 2.7*
+**THIS HAS NOT BEEN TESTED ON ANY VERSION BESIDES PYTHON 3.6**
 
 Clone the repo and `cd` into it:
 
@@ -22,15 +20,17 @@ $ source venv/bin/activate
 ```
 
 Install dependencies from "requirements.txt" via pip:
+
 ```
 (venv) $ pip install -r requirements.txt
 ```
 
 ## Execution
 
-Run `main.py`. You will be asked to input digits - separate each digit with spaces.
+Run `main.py`.
+You will be asked to input digits from a list. Separate each digit with spaces.
 
-Sentences will be generated in the file specified by `DB_FILE`
+Sentences will be written to the file specified by `DB_FILE`.
 Sentences will also be printed to the screen.
 
 

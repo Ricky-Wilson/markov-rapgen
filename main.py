@@ -1,3 +1,5 @@
+#Compatible with Python 3.6+
+
 from database_init import database_init
 from phrase_generator import generate_phrase
 
@@ -7,31 +9,31 @@ DB_FILE = "db/markov_database.p"
 FILE_OUT = "dist/generated_phrases.txt"
 
 available_texts = {
-    0: {'satan': 'corpus/texts/satanbible.txt'},
-    1: {'bible': 'corpus/texts/bible.txt'},
-    2: {'phys2': 'corpus/textbooks/phys2.txt'},
-    3: {'kanye': 'corpus/rappers/kanye.txt'},
-    4: {'lilpump': 'corpus/rappers/lilpump.txt'},
-    5: {'lilyachty':    'corpus/rappers/lilyachty.txt'},
+    0: ['satan',        'corpus/texts/satanbible.txt',  ],
+    1: ['bible',        'corpus/texts/bible.txt',       ],
+    2: ['phys2',        'corpus/textbooks/phys2.txt',   ],
+    3: ['kanye',        'corpus/rappers/kanye.txt',     ],
+    4: ['lilpump',      'corpus/rappers/lilpump.txt',   ],
+    5: ['lilyachty',    'corpus/rappers/lilyachty.txt', ],
 }
 
 def prompt_input():
     #Displays a list of all available texts to use
     for key in available_texts.keys():
-        print (str(key) + " - " + str(available_texts[key].keys()).strip("[]"))
+        print ( str(key) + " - " + str(available_texts[key][0]) )
 
     #Prompts for input and splits into list
-    nums = raw_input("\nPrint Digits (Space Separated): ").split()
+    nums = input("\nPrint Digits (Space Separated): ").split()
 
-    #Adds only valid indexes into list, and sorts list
-    nums = sorted([int(i)
+    #Adds only valid indexes into list 'nums', and sorts list
+    nums = sorted(set([int(i)
                     for i in nums
-                    if (i.isdigit() and int(i) < len(available_texts))])
+                    if (i.isdigit() and int(i) < len(available_texts))]))
 
     #Grabs the directories of the indexes listed
-    input_filenames = [str(available_texts[i].values()).strip("[]").strip("''")
+    input_filenames = [ str(available_texts[i][1])
                         for i in nums
-                        if i in available_texts.keys() ]
+                        if (i in available_texts.keys() )]
     return input_filenames
 
 

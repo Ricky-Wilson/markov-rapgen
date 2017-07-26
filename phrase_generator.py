@@ -13,7 +13,10 @@ import os
 
 #pickle library is unecessary in a full implementation but is being included to demonstrate my knowledge
 def generate_phrase(DB_FILE, FILE_OUT):
-    markov_database = pickle.load(open(DB_FILE, "r"))
+
+    #Read Binary pickle file
+    with open(DB_FILE, 'rb') as f:
+        markov_database = pickle.load(f)
 
 
     #Create directory/file if does not exist
