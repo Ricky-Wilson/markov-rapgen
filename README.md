@@ -68,12 +68,19 @@ You can set either variable to `False` if you would like to test an individual c
 Contains all constants and data structures.
 
 `NEW_DB` - (Bool) Controls prompt and db creation.
+
 `GENERATE` - (Bool) Controls text generation.
+
 `DB_FILE` - (String) Specifies Pickle file for read/write.
+
 `FILE_OUT` - (String) Specifies .txt file for write.
+
 `STATE_SIZE` - (Int) Dictates the text-state size for the Markov Chain.
+
 `MAX_SENTENCES` - (Int) Controls # of sentences written.
+
 `MAX_SENTENCE_LEN` - (Int) Controls max length of sentences
+
 `available_texts` - {Dict} Stores all available texts and their details
 
 #### `corpus/`
