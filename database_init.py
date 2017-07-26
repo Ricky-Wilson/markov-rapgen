@@ -15,7 +15,7 @@ def database_init(input_filenames, weights, DB_FILE):
     for filename in input_filenames:
         f = open (filename)
         text = f.read()
-        model = markovify.Text(text, state_size=2)
+        model = markovify.Text(text, state_size=1)
         model_list.append(model)
 
     #runs the 'combine' function on the model_list and weight listself.
