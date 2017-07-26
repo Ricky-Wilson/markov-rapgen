@@ -2,7 +2,7 @@
 #designed to work with the script in the same repository
 import markovify
 import pickle
-
+import os
 #this code does not work
 #import json
 #will be fixed possibly in future implementations
@@ -12,18 +12,24 @@ import pickle
 
 
 #pickle library is unecessary in a full implementation but is being included to demonstrate my knowledge
-def generate_phrase(DB_FILE):
+def generate_phrase(DB_FILE, FILE_OUT):
     markov_database = pickle.load(open(DB_FILE, "r"))
 
-    text_file = open("dist/generated_phrases.txt", "w")
+    if not os.path.exists(os.path.dirname(FILE_OUT)):
+        try:
+            os.makedirs(os.path.dirname(FILE_OUT))
+        except OSError as exc: # Guard against race condition
+            if exc.errno != errno.EEXIST:
+                raise
 
-    for i in range(20):
-        sentence = markov_database.make_short_sentence(80)
-        text_file.write(sentence)
-        text_file.write('\n')
-        print (sentence)
+    with open(FILE_OUT, 'w') as f:
+        for i in range(20):
+            sentence = str(markov_database.make_short_sentence(80))
+            f.write(sentence)
+            f.write('\n')
+            print (sentence)
 
-    text_file.close()
+        f.close()
 
 
 

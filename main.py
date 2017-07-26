@@ -4,6 +4,7 @@ from phrase_generator import generate_phrase
 NEW_DB = True
 GENERATE = True
 DB_FILE = "db/markov_database.p"
+FILE_OUT = "dist/generated_phrases.txt"
 
 available_texts = {
     0: {'satan': 'corpus/texts/satanbible.txt'},
@@ -37,4 +38,4 @@ if __name__ == "__main__":
         database_init(input_filenames, DB_FILE)
 
     if GENERATE:
-        generate_phrase(DB_FILE)
+        generate_phrase(DB_FILE, FILE_OUT)

@@ -11,6 +11,7 @@
 
 import markovify
 import pickle
+import os
 
 
 def database_init(input_filenames, DB_FILE):
@@ -28,7 +29,15 @@ def database_init(input_filenames, DB_FILE):
 
     #this next line is ultimately a bit useless as the next script will generate a txt file of sentences
     #python 3.6 shifted usage of pickle so this will need to be rewritten past 2.7 possibly
-    pickle.dump(model_combo, open(DB_FILE, "w"))
+    if not os.path.exists(os.path.dirname(DB_FILE)):
+        try:
+            os.makedirs(os.path.dirname(DB_FILE))
+        except OSError as exc: # Guard against race condition
+            if exc.errno != errno.EEXIST:
+                raise
+
+    with open(DB_FILE, 'w') as f:
+        pickle.dump(model_combo, f)
     print("Markov Database Generated at " + str(DB_FILE))
 
 
