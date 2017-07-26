@@ -30,7 +30,7 @@ def database_init(input_filenames, weights, DB_FILE):
                 raise
 
     #Opening file as 'wb' = 'write binary' because the output file needs to be opened in binary mode.
-    #Dumping model_combo into binary file.
+    #Dumping model_combo into pickle file.
     with open(DB_FILE, 'wb') as f:
         pickle.dump(model_combo, f)
     print("Markov Database Generated at " + str(DB_FILE) + "\n")

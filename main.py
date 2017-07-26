@@ -9,12 +9,13 @@ DB_FILE = "db/markov_database.p"
 FILE_OUT = "dist/generated_phrases.txt"
 
 available_texts = {
-    0: ['satan',        'corpus/texts/satanbible.txt', .025    ],
-    1: ['bible',        'corpus/texts/bible.txt',   .025        ],
+    0: ['satan',        'corpus/texts/satanbible.txt', .005    ],
+    1: ['bible',        'corpus/texts/bible.txt',   .003        ],
     2: ['phys2',        'corpus/textbooks/phys2.txt', .005    ],
     3: ['kanye',        'corpus/rappers/kanye.txt', .03      ],
     4: ['lilpump',      'corpus/rappers/lilpump.txt', .6   ],
-    5: ['lilyachty',    'corpus/rappers/lilyachty.txt',.5   ],
+    5: ['lilyachty',    'corpus/rappers/lilyachty.txt',.6   ],
+    6: ['gleesh',    'corpus/rappers/gleesh.txt', .6   ],
 }
 
 def prompt_input():
