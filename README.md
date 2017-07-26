@@ -24,6 +24,10 @@ $ virtualenv venv
 $ source venv/bin/activate
 ```
 
+Run `$python --version` to make sure you are running Python 3.x
+If you are not running 3.x,[install python](https://www.python.org/downloads/) and
+[create a python3 venv](https://stackoverflow.com/questions/23842713/using-python-3-in-virtualenv)
+
 Install dependencies from "requirements.txt" via pip:
 
 ```
