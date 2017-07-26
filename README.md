@@ -87,7 +87,8 @@ Contains all constants and data structures.
 
 `MAX_SENTENCE_LEN` - (Int) Sets max length of sentences
 
-`available_texts` - {Dict} Stores all available texts and their details
+`available_texts` - {Dict} Stores all available texts and their details.
+Structure: {index: [name, filepath, weight]}. Play with different weights to achieve different distributions of text.
 
 #### `corpus/`
 Contains all text.
