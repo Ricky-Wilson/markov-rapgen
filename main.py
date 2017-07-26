@@ -9,12 +9,12 @@ DB_FILE = "db/markov_database.p"
 FILE_OUT = "dist/generated_phrases.txt"
 
 available_texts = {
-    0: ['satan',        'corpus/texts/satanbible.txt',  ],
-    1: ['bible',        'corpus/texts/bible.txt',       ],
-    2: ['phys2',        'corpus/textbooks/phys2.txt',   ],
-    3: ['kanye',        'corpus/rappers/kanye.txt',     ],
-    4: ['lilpump',      'corpus/rappers/lilpump.txt',   ],
-    5: ['lilyachty',    'corpus/rappers/lilyachty.txt', ],
+    0: ['satan',        'corpus/texts/satanbible.txt', 1.5    ],
+    1: ['bible',        'corpus/texts/bible.txt',   1        ],
+    2: ['phys2',        'corpus/textbooks/phys2.txt', 1     ],
+    3: ['kanye',        'corpus/rappers/kanye.txt', 1      ],
+    4: ['lilpump',      'corpus/rappers/lilpump.txt', 2.0   ],
+    5: ['lilyachty',    'corpus/rappers/lilyachty.txt',1.3   ],
 }
 
 def prompt_input():
@@ -30,18 +30,24 @@ def prompt_input():
                     for i in nums
                     if (i.isdigit() and int(i) < len(available_texts))]))
 
-    #Grabs the directories of the indexes listed
+    #Grabs the directories of the indexes listed in nums
     input_filenames = [ str(available_texts[i][1])
                         for i in nums
                         if (i in available_texts.keys() )]
-    return input_filenames
+
+    #Grabs the weights for the indexes listed in nums
+    weights = [ available_texts[i][2]
+                for i in nums
+                if (i in available_texts.keys() )]
+
+    return input_filenames, weights
 
 
 if __name__ == "__main__":
 
     if NEW_DB:
-        input_filenames = prompt_input()
-        database_init(input_filenames, DB_FILE)
+        input_filenames, weights = prompt_input()
+        database_init(input_filenames, weights, DB_FILE)
 
     if GENERATE:
         generate_phrase(DB_FILE, FILE_OUT)

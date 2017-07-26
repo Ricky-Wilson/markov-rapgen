@@ -1,11 +1,4 @@
-#This script does not need to be run!
-#it is here for keeping track of project history only!
-#pickle database is already built as markov_database.p
-#the main section of code will pull phrases from phrases_generated.txt
-#running this script will likely result in errors!
-
-#markov database builder using source text from isaac asimov
-#Author: Brenly
+#Author: Brenly (& Sharad)
 #requires pickle library
 #requires markovify github library by @jsvine
 
@@ -14,7 +7,7 @@ import pickle
 import os
 
 
-def database_init(input_filenames, DB_FILE):
+def database_init(input_filenames, weights, DB_FILE):
 
     model_list = []
 
@@ -26,10 +19,9 @@ def database_init(input_filenames, DB_FILE):
         model_list.append(model)
 
     #combines two models to generate sentences weighted accordingly 1 to 1.4 created in my opinion the best balance of language
-    model_combo = markovify.combine((model_list))
+    model_combo = markovify.combine((model_list), weights)
 
-    #this next line is ultimately a bit useless as the next script will generate a txt file of sentences
-    #python 3.6 shifted usage of pickle so this will need to be rewritten past 2.7 possibly
+    #Creates the database directory/file if does not exist
     if not os.path.exists(os.path.dirname(DB_FILE)):
         try:
             os.makedirs(os.path.dirname(DB_FILE))
@@ -38,14 +30,7 @@ def database_init(input_filenames, DB_FILE):
                 raise
 
     #Opening file as 'wb' = 'write binary' because the output file needs to be opened in binary mode.
+    #Dumping model_combo into binary file.
     with open(DB_FILE, 'wb') as f:
         pickle.dump(model_combo, f)
-    print("Markov Database Generated at " + str(DB_FILE))
-
-
-##### this next code segment does not work.
-##### there is poor documentation of converting the markov libraries to JSON format so I opted for pickle and plain text file generation
-#json_model_combo = model_combo.to_json()
-#with open ('main_database.json', 'w') as outfile:
-#	json.dump(json_model_combo, outfile)
-#with the json database successfully built it can then be reloaded as needed into other scripts
+    print("Markov Database Generated at " + str(DB_FILE) + "\n")
