@@ -33,6 +33,11 @@ Install dependencies from "requirements.txt" via pip:
 ## Execution
 
 Run `main.py`.
+
+```
+$ python main.py
+```
+
 You will be asked to input digits from a list.
 Separate each digit with spaces.
 
@@ -47,20 +52,21 @@ The main file. Run this script in your shell.
 Make sure the following parameters are set to True.
 
 ```python
-NEW_DB = False
-GENERATE = False
+NEW_DB = True
+GENERATE = True
 ```
+
+You can set either variable to `False` if you would like to test an individual component.
 
 #### `database_init.py`
 This will generate a new database when called.
 The database is actually a pickled object stored at `DB_FILE`.
-Set `NEW_DB = False` to disable this function.
+
 
 #### `phrase_generator.py`
 Generates a new phrase.
 Retrieves the pickle object and prints markov sentences.
 Set the parameters for sentences here.
-Set `GENERATE = False` to disable this.
 
 #### `corpus/`
 Contains all text.

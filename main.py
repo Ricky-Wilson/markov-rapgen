@@ -10,8 +10,8 @@ FILE_OUT = "dist/generated_phrases.txt"
 
 available_texts = {
     0: ['satan',        'corpus/texts/satanbible.txt', .025    ],
-    1: ['bible',        'corpus/texts/bible.txt',   .05        ],
-    2: ['phys2',        'corpus/textbooks/phys2.txt', .002    ],
+    1: ['bible',        'corpus/texts/bible.txt',   .025        ],
+    2: ['phys2',        'corpus/textbooks/phys2.txt', .005    ],
     3: ['kanye',        'corpus/rappers/kanye.txt', .03      ],
     4: ['lilpump',      'corpus/rappers/lilpump.txt', .6   ],
     5: ['lilyachty',    'corpus/rappers/lilyachty.txt',.5   ],
