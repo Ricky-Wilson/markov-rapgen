@@ -25,9 +25,10 @@ def generate_phrase(DB_FILE, FILE_OUT):
     with open(FILE_OUT, 'w') as f:
         for i in range(20):
             sentence = str(markov_database.make_short_sentence(80))
-            f.write(sentence)
-            f.write('\n')
-            print (sentence)
+            if not (sentence == None or sentence =='None'):
+                f.write(sentence)
+                f.write('\n')
+                print (sentence)
 
         f.close()
 

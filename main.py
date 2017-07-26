@@ -12,6 +12,7 @@ available_texts = {
     2: {'phys2': 'corpus/textbooks/phys2.txt'},
     3: {'kanye': 'corpus/rappers/kanye.txt'},
     4: {'lilpump': 'corpus/rappers/lilpump.txt'},
+    5: {'lilyachty':    'corpus/rappers/lilyachty.txt'},
 }
 
 def prompt_input():
