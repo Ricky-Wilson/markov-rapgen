@@ -4,6 +4,8 @@
 
 Markov-Chain Rap Lyrics Generator
 
+Future implementations will use a Hidden Markov Model (HMM).
+
 ## Setup
 
 You will need Git, Python (v3.6+), and pip to be installed.
