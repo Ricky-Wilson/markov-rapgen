@@ -15,9 +15,11 @@ import os
 
 
 def database_init(input_filenames, DB_FILE):
-    print(input_filenames)
+
+
     model_list = []
 
+    #Loop through input_filenames list and markovify each. Add models to a list
     for filename in input_filenames:
         f = open (filename)
         text = f.read()

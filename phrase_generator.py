@@ -15,6 +15,8 @@ import os
 def generate_phrase(DB_FILE, FILE_OUT):
     markov_database = pickle.load(open(DB_FILE, "r"))
 
+
+    #Create directory/file if does not exist
     if not os.path.exists(os.path.dirname(FILE_OUT)):
         try:
             os.makedirs(os.path.dirname(FILE_OUT))
@@ -22,6 +24,7 @@ def generate_phrase(DB_FILE, FILE_OUT):
             if exc.errno != errno.EEXIST:
                 raise
 
+    #Write sentences to file
     with open(FILE_OUT, 'w') as f:
         for i in range(20):
             sentence = str(markov_database.make_short_sentence(80))

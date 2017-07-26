@@ -19,12 +19,15 @@ def prompt_input():
     #Displays a list of all available texts to use
     for key in available_texts.keys():
         print (str(key) + " - " + str(available_texts[key].keys()).strip("[]"))
+
     #Prompts for input and splits into list
     nums = raw_input("\nPrint Digits (Space Separated): ").split()
+
     #Adds only valid indexes into list, and sorts list
     nums = sorted([int(i)
                     for i in nums
                     if (i.isdigit() and int(i) < len(available_texts))])
+
     #Grabs the directories of the indexes listed
     input_filenames = [str(available_texts[i].values()).strip("[]").strip("''")
                         for i in nums

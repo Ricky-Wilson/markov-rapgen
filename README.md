@@ -8,7 +8,9 @@ Markov-Chain Rap Lyrics Generator
 
 ## Setup
 
-You will need Git, Python (v2.7 or higher), and pip to be installed.
+You will need Git, Python (v2.7), and pip to be installed.
+
+*AS OF NOW, THIS WILL NOT WORK ON ANY VERSION OTHER THAN Python 2.7*
 
 Clone the repo and `cd` into it:
 
