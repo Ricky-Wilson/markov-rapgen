@@ -1,18 +1,10 @@
-This is where I put code to demonstrate python knowledge to any potential employers.
 
-database_initializer.py is a script that uses markovify to build markov text associates between two source texts. it then writes a pickle data to file.
-phrase_generator.py retrieves the pickle data and prints 5x markov sentences from that pickle data
 
 
 # Rapgen
 
 Markov-Chain Rap Lyrics Generator
 
-## Roadmap
-
-- [ ] dev setup
-- [ ] data processing
-- [ ] continuous pipeline
 
 ## Setup
 
@@ -28,12 +20,22 @@ $ source venv/bin/activate
 ```
 
 Install dependencies from "requirements.txt" via pip:
-
-```
+git h```
 (venv) $ pip install -r requirements.txt
 ```
 
+## Execution
+
+Run ```main.py```. You will be asked to input digits - separate each digit with spaces.
+
+Sentences will be generated in the file specified by ```DB_FILE```
+Sentences will also be printed to the screen.
+
+
 ## Structure
+
+database_initializer.py is a script that uses markovify to build markov text associates between two source texts. it then writes a pickle data to file.
+phrase_generator.py retrieves the pickle data and prints markov sentences from that pickle data
 
 #### `main.py`
 
@@ -44,7 +46,6 @@ Make sure the following parameters are set to True.
 NEW_DB = False
 GENERATE = False
 ```
-
 
 #### `database_init.py`
 
@@ -58,6 +59,12 @@ to disable this function.
 #### `phrase_generator.py`
 
 Generates a new phrase. Set the parameters of this phrase here.
+Set
+
+```python
+GENERATE = False
+```
+to disable this.
 
 #### `corpus/`
 
