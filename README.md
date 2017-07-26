@@ -12,12 +12,17 @@ You will need Git, Python (v3.6+), and pip to be installed.
 
 **THIS HAS NOT BEEN TESTED ON ANY VERSION BESIDES PYTHON 3.6**
 
-Clone the repo
+Clone the repo:
 
 ```
-$ git clone https://github.com/sharad-s/markov-rapgen.git
+$ git clone https://github.com/sharad-s/markov-rapgen.git [folder_name]
 ```
-Then `cd` into the new folder.
+
+`cd` into the new folder:
+
+```
+$ cd [folder_name]
+```
 
 Create a *virtualenv* and activate it:
 
