@@ -42,10 +42,6 @@ Sentences will also be printed to the screen.
 
 ## Structure
 
-`database_initializer.py` is a script that uses markovify to build markov text associates between two source texts. it then writes a pickle data to file.
-
-`phrase_generator.py`retrieves the pickle data and prints markov sentences from that pickle data
-
 #### `main.py`
 The main file. Run this script in your shell.
 Make sure the following parameters are set to True.
@@ -57,7 +53,7 @@ GENERATE = False
 
 #### `database_init.py`
 This will generate a new database when called.
-The database is actually a pickled object stored in `DB_FILE`.
+The database is actually a pickled object stored at `DB_FILE`.
 Set `NEW_DB = False` to disable this function.
 
 #### `phrase_generator.py`

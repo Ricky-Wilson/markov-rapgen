@@ -15,10 +15,10 @@ def database_init(input_filenames, weights, DB_FILE):
     for filename in input_filenames:
         f = open (filename)
         text = f.read()
-        model = markovify.Text(text, state_size=2)
+        model = markovify.Text(text, state_size=1)
         model_list.append(model)
 
-    #combines two models to generate sentences weighted accordingly 1 to 1.4 created in my opinion the best balance of language
+    #runs the 'combine' function on the model_list and weight listself.
     model_combo = markovify.combine((model_list), weights)
 
     #Creates the database directory/file if does not exist
