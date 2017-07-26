@@ -15,9 +15,9 @@ Clone the repo
 ```
 $ git clone https://github.com/sharad-s/markov-rapgen.git
 ```
-`cd` into the new folder:
+Then `cd` into the new folder.
 
-Create a virtualenv and activate it:
+Create a *virtualenv* and activate it:
 
 ```
 $ virtualenv venv
@@ -36,7 +36,7 @@ Run `main.py`.
 You will be asked to input digits from a list.
 Separate each digit with spaces.
 
-Sentences will be written to the file specified by `DB_FILE`.
+Sentences will be written to the file specified by `FILE_OUT`.
 Sentences will also be printed to the screen.
 
 
@@ -56,11 +56,14 @@ GENERATE = False
 ```
 
 #### `database_init.py`
-This will generate a new database when called. Set `NEW_DB = False` to disable this function.
+This will generate a new database when called.
+The database is actually a pickled object stored in `DB_FILE`.
+Set `NEW_DB = False` to disable this function.
 
 #### `phrase_generator.py`
-
-Generates a new phrase. Set the parameters of this phrase here.
+Generates a new phrase.
+Retrieves the pickle object and prints markov sentences.
+Set the parameters for sentences here.
 Set `GENERATE = False` to disable this.
 
 #### `corpus/`
