@@ -77,9 +77,9 @@ Contains all constants and data structures.
 
 `STATE_SIZE` - (Int) Dictates the text-state size for the Markov Chain.
 
-`MAX_SENTENCES` - (Int) Controls # of sentences written.
+`MAX_SENTENCES` - (Int) Determines # of sentences written.
 
-`MAX_SENTENCE_LEN` - (Int) Controls max length of sentences
+`MAX_SENTENCE_LEN` - (Int) Sets max length of sentences
 
 `available_texts` - {Dict} Stores all available texts and their details
 
