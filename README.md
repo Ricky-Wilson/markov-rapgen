@@ -66,16 +66,9 @@ The main file. Run this script with the command:
 python main.py
 ```
 
-Make sure to have `NEW_DB = True` and `GENERATE = True` in settings for it to run properly.
-You can set either variable to `False` if you would like to test an individual component.
-
 #### `settings.py`
 
 Contains all constants and data structures.
-
-`NEW_DB` - (Bool) Controls prompt and db creation.
-
-`GENERATE` - (Bool) Controls text generation.
 
 `DB_FILE` - (String) Specifies Pickle file for read/write.
 

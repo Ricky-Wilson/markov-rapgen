@@ -4,8 +4,8 @@ import os
 import pickle
 import markovify
 from settings import available_texts
-from settings import DB_FILE, FILE_OUT, STATE_SIZE, MAX_SENTENCES, MAX_SENTENCE_LEN
-from settings import NEW_DB, GENERATE
+from settings import DB_FILE, FILE_OUT, STATE_SIZE
+from settings import MAX_SENTENCES, MAX_SENTENCE_LEN
 
 
 #Prompts input and returns filepaths, weights
@@ -16,6 +16,7 @@ def prompt_input():
         print("{} - {}".format(i, text[0]))
 
     #Prompts input and splits input into list
+    #CHecks Python version
     if sys.version_info[0] < 3:
         nums = raw_input("\nPrint Digits (Space Separated): ").split()
     else:
@@ -25,19 +26,10 @@ def prompt_input():
     nums = sorted(set([int(i)
                         for i in nums
                         if (i.isdigit() and int(i) < len(available_texts))]))
-    '''
-    #Grabs the filepaths for the indexes in list
-    input_filenames = [ str(available_texts[i][1])
-                        for i in nums
-                        if i < len(available_texts)]
 
-    #Grabs the weights for the indexes in list
-    weights = [ available_texts[i][2]
-                for i in nums
-                if i < len(available_texts)]
-    '''
-
+    #Use the zip function to grab and sort all the data using indexes.
     names, filenames, weights = zip(*[available_texts[i] for i in nums])
+
     return names, filenames, weights
 
 #Creates Pickle Object using input selections
@@ -101,9 +93,7 @@ def generate_phrase(names, DB_FILE, FILE_OUT):
 
 if __name__ == "__main__":
 
-    if NEW_DB:
-        names, filenames, weights = prompt_input()
-        database_init(filenames, weights, DB_FILE)
+    names, filenames, weights = prompt_input()
+    database_init(filenames, weights, DB_FILE)
 
-    if GENERATE:
-        generate_phrase(names, DB_FILE, FILE_OUT)
+    generate_phrase(names, DB_FILE, FILE_OUT)
